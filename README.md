@@ -3,7 +3,11 @@
 
 I'm writing an academic article about Open Web social platforms/technologies' superiority to the big proprietary players for a class, so I thought I'd play around with documenting it as I work on it (read: setting up this repository was a great distraction from actually *working on the fucking essay*.)
 
-※※※ [**Current Essay Draft**](Essay_Draft.md) ※※※
+## Working Abstract
+
+This essay seeks to examine the breadth of donor-funded, open source, federated social networks as technical alternatives to commercial online environments like Facebook and Twitter as measured by their users’ overall satisfaction with them as means of social interactivity over time. Following recent debates and confusion regarding the ethics in the practices of the organizations which built them and the extent of their complicity in the radical cultural consequences of digital communication surrounding the United States’ Presidential Election in 2016, it proposes that greater rhetorical and legislative attention be invested in the tangible, documented design decisions across their products’ history as the most crucial, relevant, and effective means of understanding the whole context, within which it will define open source software development and federated networking in contrast to the guarded industry establishment which the dominant services have transitioned from disrupting by design to entirely exemplifying thus far in the century. After examining conspicuous alterations and inexplicably silent feature additions and subtractions across the whole of social network development, as well as their eventual result’s reflections on the conscious satisfaction of individual social media users, it will conclude by profiling a select few communities thriving on donation-funded, collaboratively-maintained, and/or decentralized platforms as superior foundations upon which citizens of the web might rebuild their own traumatized and fragmented networks when they are ready to begin again.
+
+※※※ [**Current Essay Draft**](EssayDraft.md) ※※※
 
 ## Live Progress
 
