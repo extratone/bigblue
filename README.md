@@ -3,6 +3,8 @@
 
 I'm writing an academic article about Open Web social platforms/technologies' superiority to the big proprietary players for a class, so I thought I'd play around with documenting it as I work on it (read: setting up this repository was a great distraction from actually *working on the fucking essay*.)
 
+[Current Essay Draft]()
+
 ## Live Progress
 
 * [Notion Page (Notes)](https://www.notion.so/rotund/Research-Paper-4e71ec99e6bd45bcb53713c0a3bdc7fa)
