@@ -3,7 +3,7 @@
 
 I'm writing an academic article about Open Web social platforms/technologies' superiority to the big proprietary players for a class, so I thought I'd play around with documenting it as I work on it (read: setting up this repository was a great distraction from actually *working on the fucking essay*.)
 
-[Current Essay Draft]()
+※※※ **[Current Essay Draft](Essay Draft.md)** ※※※
 
 ## Live Progress
 
