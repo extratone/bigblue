@@ -11,6 +11,9 @@ This essay seeks to examine the breadth of donor-funded, open source, federated 
 
 ※※※ [**Current Essay Draft**](EssayDraft.md) ※※※
 
+[**David Blue vs. Big Blue**](vsbigblue.md) - A *big* draft of an essay I spent a large portion of the Summer working on and originally intended to post personally. 
+Its [Notes Page](vsnotes.md) is especially important.
+
 ## Live Progress
 
 * [Notion Page (Notes)](https://www.notion.so/rotund/Research-Paper-4e71ec99e6bd45bcb53713c0a3bdc7fa)
