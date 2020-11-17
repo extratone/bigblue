@@ -1,0 +1,2720 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="#item_3">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>22</prism:volume>
+                <dc:title>New Media &amp; Society</dc:title>
+                <prism:number>9</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niemeyer</foaf:surname>
+                        <foaf:givenName>Katharina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keightley</foaf:surname>
+                        <foaf:givenName>Emily</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The commodification of time and memory: Online communities and the dynamics of commercially produced nostalgia</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage UK: London, England</dc:description>
+        <bib:pages>1639–1662</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>European Journal of Communication</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ben-David</foaf:surname>
+                        <foaf:givenName>Anat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_42"/>
+        <dc:title>Counter-archiving Facebook</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage UK: London, England</dc:description>
+        <bib:pages>0267323120922069</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_42">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\ihadt\OneDrive - Extranet\Library\Counter-archiving Facebook - Anat Ben-David.pdf"/>
+        <dc:title>Counter-archiving Facebook - Anat Ben-David.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>New Media &amp; Society</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lu</foaf:surname>
+                        <foaf:givenName>Yanqin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Jae Kook</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Determinants of cross-cutting discussion on Facebook: Political interest, news consumption, and strong-tie heterogeneity</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage UK: London, England</dc:description>
+        <bib:pages>1461444819899879</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>18</prism:volume>
+                <dc:title>New Media &amp; Society</dc:title>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nitschke</foaf:surname>
+                        <foaf:givenName>Paula</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Donges</foaf:surname>
+                        <foaf:givenName>Patrick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schade</foaf:surname>
+                        <foaf:givenName>Henriette</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Political organizations’ use of websites and Facebook</dc:title>
+        <dc:date>2016</dc:date>
+        <dc:description>Publisher: Sage Publications Sage UK: London, England</dc:description>
+        <bib:pages>744–764</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_7">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>16</prism:volume>
+                <dc:title>New Media &amp; Society</dc:title>
+                <prism:number>7</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilken</foaf:surname>
+                        <foaf:givenName>Rowan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Places nearby: Facebook as a location-based social media platform</dc:title>
+        <dc:date>2014</dc:date>
+        <dc:description>Publisher: Sage Publications Sage UK: London, England</dc:description>
+        <bib:pages>1087–1103</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Journalism &amp; Mass Communication Quarterly</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Victoria Y</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pain</foaf:surname>
+                        <foaf:givenName>Paromita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>News on Facebook: How Facebook and Newspapers Build Mutual Brand Loyalty Through Audience Engagement</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage CA: Los Angeles, CA</dc:description>
+        <bib:pages>1077699019876634</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_9">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>New Media &amp; Society</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McInroy</foaf:surname>
+                        <foaf:givenName>Lauren B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beer</foaf:surname>
+                        <foaf:givenName>Oliver WJ</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Wands up! Internet-mediated social advocacy organizations and youth-oriented connective action</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage UK: London, England</dc:description>
+        <bib:pages>1461444820964809</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_10">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>new media &amp; society</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goyanes</foaf:surname>
+                        <foaf:givenName>Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Demeter</foaf:surname>
+                        <foaf:givenName>Marton</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Beyond positive or negative: Understanding the phenomenology, typologies and impact of incidental news exposure on citizens’ daily lives</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage UK: London, England</dc:description>
+        <bib:pages>1461444820967679</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_11">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>New Media &amp; Society</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stenström</foaf:surname>
+                        <foaf:givenName>Kristina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Involuntary childlessness online: Digital lifelines through blogs and Instagram</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage UK: London, England</dc:description>
+        <bib:pages>1461444820968907</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_12">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>New Media &amp; Society</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calvo</foaf:surname>
+                        <foaf:givenName>Dafne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Free software meets Facebook: Placing digital platforms’ usage by free culture communities</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage UK: London, England</dc:description>
+        <bib:pages>1461444820971629</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_15">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0007-1013"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jensen</foaf:surname>
+                        <foaf:givenName>Jesper</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A systematic literature review of the use of semantic web technologies in formal education</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:description>Publisher: Wiley Online Library</dc:description>
+        <bib:pages>505-517</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0007-1013">
+        <prism:volume>50</prism:volume>
+        <dc:title>British Journal of Educational Technology</dc:title>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>British Journal of Educational Technology</dcterms:alternative>
+        <dc:identifier>ISSN 0007-1013</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_16">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1568-4946"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kou</foaf:surname>
+                        <foaf:givenName>Gang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Pei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peng</foaf:surname>
+                        <foaf:givenName>Yi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xiao</foaf:surname>
+                        <foaf:givenName>Feng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Yang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alsaadi</foaf:surname>
+                        <foaf:givenName>Fawaz E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Evaluation of feature selection methods for text classification with small datasets using multiple criteria decision-making methods</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: Elsevier</dc:description>
+        <bib:pages>105836</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1568-4946">
+        <prism:volume>86</prism:volume>
+        <dc:title>Applied Soft Computing</dc:title>
+        <dcterms:alternative>Applied Soft Computing</dcterms:alternative>
+        <dc:identifier>ISSN 1568-4946</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_17">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0267-3231"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rogers</foaf:surname>
+                        <foaf:givenName>Richard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Deplatforming: Following extreme Internet celebrities to Telegram and alternative social media</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage UK: London, England</dc:description>
+        <bib:pages>0267323120922066</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0267-3231">
+        <dc:title>European Journal of Communication</dc:title>
+        <dcterms:alternative>European Journal of Communication</dcterms:alternative>
+        <dc:identifier>ISSN 0267-3231</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_18">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1461-4448"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Welbers</foaf:surname>
+                        <foaf:givenName>Kasper</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Opgenhaffen</foaf:surname>
+                        <foaf:givenName>Michaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Social media gatekeeping: An analysis of the gatekeeping influence of newspapers’ public Facebook pages</dc:title>
+        <dc:date>2018</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage UK: London, England</dc:description>
+        <bib:pages>4728-4747</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1461-4448">
+        <prism:volume>20</prism:volume>
+        <dc:title>new media &amp; society</dc:title>
+        <prism:number>12</prism:number>
+        <dcterms:alternative>new media &amp; society</dcterms:alternative>
+        <dc:identifier>ISSN 1461-4448</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_19">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>The SAGE handbook of social media</dc:title>
+                <dcterms:alternative>The SAGE handbook of social media</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bucher</foaf:surname>
+                        <foaf:givenName>Taina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Helmond</foaf:surname>
+                        <foaf:givenName>Anne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The affordances of social media platforms</dc:title>
+        <dc:date>2017</dc:date>
+        <dc:description>Publisher: Sage London and New York, NY</dc:description>
+        <bib:pages>233-253</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_20">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0747-5632"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Primack</foaf:surname>
+                        <foaf:givenName>Brian A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shensa</foaf:surname>
+                        <foaf:givenName>Ariel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Escobar-Viera</foaf:surname>
+                        <foaf:givenName>César G</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barrett</foaf:surname>
+                        <foaf:givenName>Erica L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sidani</foaf:surname>
+                        <foaf:givenName>Jaime E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Colditz</foaf:surname>
+                        <foaf:givenName>Jason B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>James</foaf:surname>
+                        <foaf:givenName>A Everette</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Use of multiple social media platforms and symptoms of depression and anxiety: A nationally-representative study among US young adults</dc:title>
+        <dc:date>2017</dc:date>
+        <dc:description>Publisher: Elsevier</dc:description>
+        <bib:pages>1-9</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0747-5632">
+        <prism:volume>69</prism:volume>
+        <dc:title>Computers in human behavior</dc:title>
+        <dcterms:alternative>Computers in human behavior</dcterms:alternative>
+        <dc:identifier>ISSN 0747-5632</dc:identifier>
+    </bib:Journal>
+    <rdf:Description rdf:about="urn:isbn:1-57735-798-1">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>ISBN 1-57735-798-1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>AAAI Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zignani</foaf:surname>
+                        <foaf:givenName>Matteo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaito</foaf:surname>
+                        <foaf:givenName>Sabrina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rossi</foaf:surname>
+                        <foaf:givenName>Gian Paolo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Follow the “mastodon”: Structure and evolution of a decentralized online social network</dc:title>
+        <dc:date>2018</dc:date>
+        <bib:pages>541-550</bib:pages>
+        <bib:presentedAt>
+           <bib:Conference><dc:title>ICWSM</dc:title></bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <rdf:Description rdf:about="urn:isbn:1-72814-222-9">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>ISBN 1-72814-222-9</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>IEEE</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Auvolat</foaf:surname>
+                        <foaf:givenName>Alex</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Making Federated Networks More Distributed</dc:title>
+        <dc:date>2019</dc:date>
+        <bib:pages>383-3831</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2019 38th Symposium on Reliable Distributed Systems (SRDS)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Article rdf:about="#item_23">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Geradin</foaf:surname>
+                        <foaf:givenName>Damien</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katsifis</foaf:surname>
+                        <foaf:givenName>Dimitrios</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Google’s (Forgotten) Monopoly–Ad Technology Services on the Open Web</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:description>Publisher: TILEC Discussion Paper, Forthcoming</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="#item_24">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>16</prism:volume>
+                <dc:title>Journal of Applied Management and entrepreneurship</dc:title>
+                <prism:number>3</prism:number>
+                <dcterms:alternative>Journal of Applied Management and entrepreneurship</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Edosomwan</foaf:surname>
+                        <foaf:givenName>Simeon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prakasan</foaf:surname>
+                        <foaf:givenName>Sitalaskshmi Kalangot</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kouame</foaf:surname>
+                        <foaf:givenName>Doriane</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watson</foaf:surname>
+                        <foaf:givenName>Jonelle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seymour</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The history of social media and its impact on business</dc:title>
+        <dc:date>2011</dc:date>
+        <bib:pages>79-91</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_34">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1751-1577"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petersen</foaf:surname>
+                        <foaf:givenName>Alexander M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Megajournal mismanagement: Manuscript decision bias and anomalous editor activity at PLOS ONE</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:description>Publisher: Elsevier</dc:description>
+        <bib:pages>100974</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1751-1577">
+        <prism:volume>13</prism:volume>
+        <dc:title>Journal of Informetrics</dc:title>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Journal of Informetrics</dcterms:alternative>
+        <dc:identifier>ISSN 1751-1577</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_35">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2297-2668"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jordan</foaf:surname>
+                        <foaf:givenName>Katy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>From social networks to publishing platforms: a review of the history and scholarship of academic social network sites</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:description>Publisher: Frontiers</dc:description>
+        <bib:pages>5</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2297-2668">
+        <prism:volume>6</prism:volume>
+        <dc:title>Frontiers in Digital Humanities</dc:title>
+        <dcterms:alternative>Frontiers in Digital Humanities</dcterms:alternative>
+        <dc:identifier>ISSN 2297-2668</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_36">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <dc:title>Harvard Kennedy School Misinformation Review</dc:title>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>Harvard Kennedy School Misinformation Review</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dias</foaf:surname>
+                        <foaf:givenName>Nicholas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pennycook</foaf:surname>
+                        <foaf:givenName>Gordon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rand</foaf:surname>
+                        <foaf:givenName>David G</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media</dc:title>
+        <dc:date>2020</dc:date>
+    </bib:Article>
+    <bib:Article rdf:about="#item_37">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bell</foaf:surname>
+                        <foaf:givenName>Emily J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Owen</foaf:surname>
+                        <foaf:givenName>Taylor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenName>Peter D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hauka</foaf:surname>
+                        <foaf:givenName>Codi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rashidian</foaf:surname>
+                        <foaf:givenName>Nushin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The platform press: How Silicon Valley reengineered journalism</dc:title>
+        <dc:date>2017</dc:date>
+    </bib:Article>
+    <bib:Article rdf:about="#item_38">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1751-2786"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ju</foaf:surname>
+                        <foaf:givenName>Alice</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jeong</foaf:surname>
+                        <foaf:givenName>Sun Ho</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chyi</foaf:surname>
+                        <foaf:givenName>Hsiang Iris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Will social media save newspapers? Examining the effectiveness of Facebook and Twitter as news platforms</dc:title>
+        <dc:date>2014</dc:date>
+        <dc:description>Publisher: Taylor &amp; Francis</dc:description>
+        <bib:pages>1-17</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1751-2786">
+        <prism:volume>8</prism:volume>
+        <dc:title>Journalism Practice</dc:title>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Journalism Practice</dcterms:alternative>
+        <dc:identifier>ISSN 1751-2786</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_39">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>20</prism:volume>
+                <dc:title>New media &amp; society</dc:title>
+                <prism:number>4</prism:number>
+                <dcterms:alternative>New media &amp; society</dcterms:alternative>
+                <dc:identifier>ISSN 1461-4448</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kleis Nielsen</foaf:surname>
+                        <foaf:givenName>Rasmus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ganter</foaf:surname>
+                        <foaf:givenName>Sarah Anne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Dealing with digital intermediaries: A case study of the relations between publishers and platforms</dc:title>
+        <dc:date>2018</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage UK: London, England</dc:description>
+        <bib:pages>1600-1617</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_40">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rashidian</foaf:surname>
+                        <foaf:givenName>Nushin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tsiveriotis</foaf:surname>
+                        <foaf:givenName>Georgios</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenName>Peter D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bell</foaf:surname>
+                        <foaf:givenName>Emily J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hartstone</foaf:surname>
+                        <foaf:givenName>Abigail</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Platforms and publishers: The end of an era</dc:title>
+        <dc:date>2020</dc:date>
+    </bib:Article>
+    <bib:Article rdf:about="#item_53">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Journal of Management</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Yan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pereira</foaf:surname>
+                        <foaf:givenName>Igor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Patel</foaf:surname>
+                        <foaf:givenName>Pankaj C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Decentralized Governance of Digital Platforms</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage CA: Los Angeles, CA</dc:description>
+        <bib:pages>0149206320916755</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_54">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Markets, Globalization &amp; Development Review</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kwet</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Fixing Social Media: Toward a Democratic Digital Commons</dc:title>
+        <dc:date>2020</dc:date>
+    </bib:Article>
+    <bib:Article rdf:about="#item_55">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Information Fusion</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Camacho</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Panizo-LLedot</foaf:surname>
+                        <foaf:givenName>Angel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bello-Orgaz</foaf:surname>
+                        <foaf:givenName>Gema</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gonzalez-Pardo</foaf:surname>
+                        <foaf:givenName>Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cambria</foaf:surname>
+                        <foaf:givenName>Erik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Four Dimensions of Social Network Analysis: An Overview of Research Methods, Applications, and Software Tools</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: Elsevier</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="#item_56">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>New Media and Society</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Miao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gehl</foaf:surname>
+                        <foaf:givenName>Robert W</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zulli</foaf:surname>
+                        <foaf:givenName>Diana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Rethinking the ‘Social’in ‘Social Media’: Insights into Topology, Abstraction, and Scale on the Mastodon Social Network</dc:title>
+        <dc:date>2020</dc:date>
+    </bib:Article>
+    <rdf:Description rdf:about="#item_57">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>13</prism:volume>
+                <dc:title>Proceedings of the International AAAI Conference on Web and Social Media</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zignani</foaf:surname>
+                        <foaf:givenName>Matteo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quadri</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galdeman</foaf:surname>
+                        <foaf:givenName>Alessia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaito</foaf:surname>
+                        <foaf:givenName>Sabrina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rossi</foaf:surname>
+                        <foaf:givenName>Gian Paolo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Mastodon Content Warnings: Inappropriate Contents in a Microblogging Platform</dc:title>
+        <dc:date>2019</dc:date>
+        <bib:pages>639–645</bib:pages>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_58">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Proceedings of the Internet Measurement Conference</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Raman</foaf:surname>
+                        <foaf:givenName>Aravindh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Joglekar</foaf:surname>
+                        <foaf:givenName>Sagar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cristofaro</foaf:surname>
+                        <foaf:givenName>Emiliano De</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sastry</foaf:surname>
+                        <foaf:givenName>Nishanth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tyson</foaf:surname>
+                        <foaf:givenName>Gareth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Challenges in the decentralised web: The mastodon case</dc:title>
+        <dc:date>2019</dc:date>
+        <bib:pages>217–229</bib:pages>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_59">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>IEEE INFOCOM 2019-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>IEEE</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zignani</foaf:surname>
+                        <foaf:givenName>Matteo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quadri</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaito</foaf:surname>
+                        <foaf:givenName>Sabrina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cherifi</foaf:surname>
+                        <foaf:givenName>Hocine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rossi</foaf:surname>
+                        <foaf:givenName>Gian Paolo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Footprints of a “Mastodon”: How a Decentralized Architecture Influences Online Social Relationships</dc:title>
+        <dc:date>2019</dc:date>
+        <bib:pages>472–477</bib:pages>
+    </rdf:Description>
+    <bib:Article rdf:about="#item_60">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>ETHICOMP 2020</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naskali</foaf:surname>
+                        <foaf:givenName>Juhani</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Examination of Hard-Coded Censorship in Open Source Mastodon Clients</dc:title>
+        <dc:date>2020</dc:date>
+        <bib:pages>333</bib:pages>
+    </bib:Article>
+    <rdf:Description rdf:about="#item_61">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Proceedings of the 6th EAI International Conference on Smart Objects and Technologies for Social Good</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guidi</foaf:surname>
+                        <foaf:givenName>Barbara</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clemente</foaf:surname>
+                        <foaf:givenName>Vanessa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García</foaf:surname>
+                        <foaf:givenName>Tomás</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ricci</foaf:surname>
+                        <foaf:givenName>Laura</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Rewarding Model for the next generation Social Media</dc:title>
+        <dc:date>2020</dc:date>
+        <bib:pages>169–174</bib:pages>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_65">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>LDOW</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dhekane</foaf:surname>
+                        <foaf:givenName>Ruturaj</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vibber</foaf:surname>
+                        <foaf:givenName>Brion</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Talash: Friend finding in federated social networks</dc:title>
+        <dc:date>2011</dc:date>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_66">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>2012 proceedings IEEE INFOCOM workshops</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>IEEE</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bielenberg</foaf:surname>
+                        <foaf:givenName>Ames</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Helm</foaf:surname>
+                        <foaf:givenName>Lara</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gentilucci</foaf:surname>
+                        <foaf:givenName>Anthony</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stefanescu</foaf:surname>
+                        <foaf:givenName>Dan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Honggang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The growth of diaspora-a decentralized online social network in the wild</dc:title>
+        <dc:date>2012</dc:date>
+        <bib:pages>13–18</bib:pages>
+    </rdf:Description>
+    <bib:Article rdf:about="#item_67">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>arXiv preprint arXiv:1910.04956</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>He</foaf:surname>
+                        <foaf:givenName>Chaoyang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tan</foaf:surname>
+                        <foaf:givenName>Conghui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tang</foaf:surname>
+                        <foaf:givenName>Hanlin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qiu</foaf:surname>
+                        <foaf:givenName>Shuang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Ji</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Central server free federated learning over single-sided trust social networks</dc:title>
+        <dc:date>2019</dc:date>
+    </bib:Article>
+    <bib:Article rdf:about="#item_68">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2019</prism:volume>
+                <dc:title>IACR Cryptol. ePrint Arch.</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boshrooyeh</foaf:surname>
+                        <foaf:givenName>Sanaz Taheri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Küpçü</foaf:surname>
+                        <foaf:givenName>Alptekin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Özkasap</foaf:surname>
+                        <foaf:givenName>Öznur</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Integrita: Protecting View-Consistency in Online Social Network with Federated Servers.</dc:title>
+        <dc:date>2019</dc:date>
+        <bib:pages>1223</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_69">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>IEEE Transactions on Knowledge and Data Engineering</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Pan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Kehao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Linke</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gong</foaf:surname>
+                        <foaf:givenName>Shimin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zheng</foaf:surname>
+                        <foaf:givenName>Bolong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Privacy-Preserving Distributed Contextual Federated Online Learning Framework with Big Data Support in Social Recommender Systems</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:description>Publisher: IEEE</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="#item_70">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>arXiv preprint arXiv:1903.10635</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Mingqing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mathews</foaf:surname>
+                        <foaf:givenName>Rajiv</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ouyang</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beaufays</foaf:surname>
+                        <foaf:givenName>Françoise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Federated learning of out-of-vocabulary words</dc:title>
+        <dc:date>2019</dc:date>
+    </bib:Article>
+    <bib:Article rdf:about="#item_71">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>89</prism:volume>
+                <dc:title>Sociological Inquiry</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodgers</foaf:surname>
+                        <foaf:givenName>Diane M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Local Chapter Outposts: A Dilemma for Federated Social Movement Organizations</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:description>Publisher: Wiley Online Library</dc:description>
+        <bib:pages>373–400</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_72">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lovisetto</foaf:surname>
+                        <foaf:givenName>Gary</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riviere</foaf:surname>
+                        <foaf:givenName>Etienne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A foundation for extensible and decentralized social networks</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_73">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>Internet Policy Review</dc:title>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poell</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nieborg</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Dijck</foaf:surname>
+                        <foaf:givenName>José</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Platformisation</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:description>Publisher: Berlin: Alexander von Humboldt Institute for Internet and Society</dc:description>
+        <bib:pages>1–13</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_74">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>6</prism:volume>
+                <dc:title>Social Media+ Society</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Partin</foaf:surname>
+                        <foaf:givenName>William Clyde</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Bit by (Twitch) Bit:“Platform Capture” and the Evolution of Digital Platforms</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: SAGE Publications Sage UK: London, England</dc:description>
+        <bib:pages>2056305120933981</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_89">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Journal of Enterprise Information Management</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Yuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Xinjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jeyaraj</foaf:surname>
+                        <foaf:givenName>Anand</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shang</foaf:surname>
+                        <foaf:givenName>Rong-An</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Feng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The impact of enterprise social media platforms on knowledge sharing</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:description>Publisher: Emerald Publishing Limited</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="#item_90">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>13</prism:volume>
+                <dc:title>Sociologica</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magaudda</foaf:surname>
+                        <foaf:givenName>Paolo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Piccioni</foaf:surname>
+                        <foaf:givenName>Tiziana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Practice Theory and Media Infrastructures:&quot; Infrastructural Disclosures&quot; in Smartphone Use</dc:title>
+        <dc:date>2019</dc:date>
+        <bib:pages>45–58</bib:pages>
+    </bib:Article>
+    <bib:Document rdf:about="https://www.google.com/search?q=import+references+to+google+scholar&amp;oq=import+references+to+google+scholar&amp;aqs=chrome..69i57.8612j0j4&amp;sourceid=chrome&amp;ie=UTF-8">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_92"/>
+        <dc:title>import references to google scholar - Google Search</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.google.com/search?q=import+references+to+google+scholar&amp;oq=import+references+to+google+scholar&amp;aqs=chrome..69i57.8612j0j4&amp;sourceid=chrome&amp;ie=UTF-8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-11-17 02:05:41</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_92">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>import references to google scholar - Google Search</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.google.com/search?q=import+references+to+google+scholar&amp;oq=import+references+to+google+scholar&amp;aqs=chrome..69i57.8612j0j4&amp;sourceid=chrome&amp;ie=UTF-8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-11-17 02:05:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.niemanlab.org/2020/07/amid-a-pandemic-and-black-lives-matter-protests-facebook-users-are-giving-fewer-clicks-to-soft-news/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Nieman Lab</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Amid a pandemic and Black Lives Matter protests, Facebook users are giving fewer clicks to “soft news”</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.niemanlab.org/2020/07/amid-a-pandemic-and-black-lives-matter-protests-facebook-users-are-giving-fewer-clicks-to-soft-news/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.motherjones.com/media/2020/10/facebook-mother-jones/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Mother</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bauerlein</foaf:surname>
+                        <foaf:givenName>Monica</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jeffery</foaf:surname>
+                        <foaf:givenName>Clara</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Facebook Manipulated the News You See to Appease Republicans, Insiders Say</dc:title>
+        <dc:date>2019-10-21</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.motherjones.com/media/2020/10/facebook-mother-jones/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Book rdf:about="#item_95">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>B.B.S.</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Documentary</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>en</z:language>
+    </bib:Book>
+    <bib:Article rdf:about="https://www.cjr.org/tow_center/for-facebook-a-boycott-and-a-long-drawn-out-reckoning.php">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Columbia Journalism Review</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bell</foaf:surname>
+                        <foaf:givenName>Emily</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>For Facebook, a boycott and a long, drawn-out reckoning</dc:title>
+        <dc:date>2020-07-09</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cjr.org/tow_center/for-facebook-a-boycott-and-a-long-drawn-out-reckoning.php</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.theverge.com/2020/7/7/21316492/facebook-boycott-stophateforprofit-hate-moderation-meeting">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The Verge</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brandom</foaf:surname>
+                        <foaf:givenName>Russell</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Facebook boycott organizers call Mark Zuckerberg meeting ‘a disappointment’</dc:title>
+        <dc:date>2020-07-07</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.theverge.com/2020/7/7/21316492/facebook-boycott-stophateforprofit-hate-moderation-meeting</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://about.fb.com/news/2020/07/facebook-does-not-benefit-from-hate/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Facebook Blog</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clegg</foaf:surname>
+                        <foaf:givenName>Nick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Facebook Does Not Benefit From Hate</dc:title>
+        <dc:date>2020-07-01</dc:date>
+        <z:language>nl</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://about.fb.com/news/2020/07/facebook-does-not-benefit-from-hate/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Book rdf:about="https://www.vice.com/en/article/pky7km/usenet-archive-utzoo-online">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vice</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cole</foaf:surname>
+                        <foaf:givenName>Samantha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>2.1 Million of the Oldest Internet Posts Are Now Online for Anyone to Read</dc:title>
+        <dc:date>2020-10-13</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.vice.com/en/article/pky7km/usenet-archive-utzoo-online</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Book>
+    <bib:Article rdf:about="https://5clpp.com/2018/04/23/regulating-social-media-as-a-public-utility/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Claremont Journal of Law and Public Policy</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dail</foaf:surname>
+                        <foaf:givenName>James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Regulating Social Media as a Public Utility</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://5clpp.com/2018/04/23/regulating-social-media-as-a-public-utility/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.nationalreview.com/2019/05/declaring-facebook-a-utility-wouldnt-assuage-users-concerns/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>National Review</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Declaring Facebook a Utility Wouldn’t Assuage Users’ Concerns</dc:title>
+        <dc:date>2019-05-29</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nationalreview.com/2019/05/declaring-facebook-a-utility-wouldnt-assuage-users-concerns/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://galley.cjr.org/public/conversations/-MCMWotYsoJWReJCftkR">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Columbia Journalism Review</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Domino</foaf:surname>
+                        <foaf:givenName>Jenny</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_104"/>
+        <dc:title>Talking with Jenny Domino about Facebook and Hate Speech Matthew Ingram</dc:title>
+        <dc:date>2020-08-09</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://galley.cjr.org/public/conversations/-MCMWotYsoJWReJCftkR</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_104">
+       <rdf:value>&lt;p&gt;Web Forum.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://nymag.com/intelligencer/2018/12/facebook-doesnt-need-to-fix-society.html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>New York Magazine</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feldman</foaf:surname>
+                        <foaf:givenName>Brian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Facebook Doesn’t Need to Fix Society. It Just Needs to Fix Facebook</dc:title>
+        <dc:date>2018-12-31</dc:date>
+        <z:language>nl</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://nymag.com/intelligencer/2018/12/facebook-doesnt-need-to-fix-society.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.engadget.com/2019-11-14-wtsocial-wikipedia-wales-facebook-alternative.html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Engadget</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fisher</foaf:surname>
+                        <foaf:givenName>Christine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Wikipedia co-founder wants to give you an alternative to Facebook and Twitter</dc:title>
+        <dc:date>2019-11-14</dc:date>
+        <z:language>ro</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.engadget.com/2019-11-14-wtsocial-wikipedia-wales-facebook-alternative.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.gq.com/story/boy-genius-of-the-year-mark-zuckerberg-facebook">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>GQ</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>French</foaf:surname>
+                        <foaf:givenName>Alex</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Boy Genius of the Year: Do You Trust This Face?</dc:title>
+        <dc:date>2008-11-01</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.gq.com/story/boy-genius-of-the-year-mark-zuckerberg-facebook</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Book rdf:about="http://www.digitaltrends.com/features/the-history-of-social-networking/">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goble</foaf:surname>
+                        <foaf:givenName>Gordon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The history of social networking</dc:title>
+        <dc:date>XXXX</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.digitaltrends.com/features/the-history-of-social-networking/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <bib:Article rdf:about="https://time.com/facebook-world-plan/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Time Magazine</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grossman</foaf:surname>
+                        <foaf:givenName>Lev</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Inside Facebook's Plan to Wire The World</dc:title>
+        <dc:date>2014-12-04</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://time.com/facebook-world-plan/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Book rdf:about="http://www.internethistorypodcast.com/2017/06/the-first-blog-justin-hall/">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hall</foaf:surname>
+                        <foaf:givenName>Justin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blogger</foaf:surname>
+                        <foaf:givenName>Justin Hall Brian McCullough</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_112"/>
+        <dc:title>The “First</dc:title>
+        <dc:date>2017-06-11</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.internethistorypodcast.com/2017/06/the-first-blog-justin-hall/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_112">
+       <rdf:value>&lt;p&gt;Podcast.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.nytimes.com/2020/06/23/business/media/facebook-ad-boycott.html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The New York Times</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hsu</foaf:surname>
+                        <foaf:givenName>Tiffany</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Ad Boycott of Facebook Keeps Growing</dc:title>
+        <dc:date>2020-06-23</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nytimes.com/2020/06/23/business/media/facebook-ad-boycott.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.nytimes.com/2020/07/08/technology/facebook-civil-rights-audit.html?utm_campaign=The%20Interface&amp;utm_medium=email&amp;utm_source=Revue%20newsletter">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Audit Finds.&quot; The New York Times</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Isaac</foaf:surname>
+                        <foaf:givenName>Mike</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Facebook’s Decisions Were ‘Setbacks for Civil Rights</dc:title>
+        <dc:date>2020-07-08</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nytimes.com/2020/07/08/technology/facebook-civil-rights-audit.html?utm_campaign=The%20Interface&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Book rdf:about="https://www.vice.com/en/article/783akg/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jeong</foaf:surname>
+                        <foaf:givenName>Sarah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Mastodon Is Like Twitter Without Nazis, So Why Are We Not Using It?</dc:title>
+        <dc:date>2017-04-04</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.vice.com/en/article/783akg/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Book>
+    <bib:Article rdf:about="#item_116">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>WIRED</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>—.</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Mastodon Is Like Twitter Without Nazis, So Why Are We Not Using It?</dc:title>
+        <dc:date>2017-04-04</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.vice.com/en/article/783akg/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.nytimes.com/2019/10/17/business/zuckerberg-facebook-free-speech.html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The New York Times</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kang</foaf:surname>
+                        <foaf:givenName>Cecilia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Isaac</foaf:surname>
+                        <foaf:givenName>Mike</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Defiant Zuckerberg Says Facebook Won’t Police Political Speech</dc:title>
+        <dc:date>2019-10-17</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nytimes.com/2019/10/17/business/zuckerberg-facebook-free-speech.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://theintercept.com/2019/04/30/helm-email-server/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The Intercept</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Micah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Helm Is a Private Home Email Server Anyone Can Use</dc:title>
+        <dc:date>2019-04-30</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://theintercept.com/2019/04/30/helm-email-server/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The New Yorker</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marantz</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Why Facebook Can't Fix Itself</dc:title>
+        <dc:date>2020-10-12</dc:date>
+        <z:language>nl</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.theverge.com/2020/7/14/21323988/vergecast-podcast-interview-rashad-robinson-color-of-change-facebook-ad-boycott">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The Verge</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marino</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>How far will Facebook go to address their civil rights audit?</dc:title>
+        <dc:date>2020-07-14</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.theverge.com/2020/7/14/21323988/vergecast-podcast-interview-rashad-robinson-color-of-change-facebook-ad-boycott</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.getrevue.co/profile/caseynewton/issues/facebook-gets-in-a-twitter-tangle-265375">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The Interface</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Newton</foaf:surname>
+                        <foaf:givenName>Casey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_122"/>
+        <dc:title>Facebook gets in a Twitter tangle</dc:title>
+        <dc:date>2020-07-21</dc:date>
+        <z:language>nl</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.getrevue.co/profile/caseynewton/issues/facebook-gets-in-a-twitter-tangle-265375</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_122">
+       <rdf:value>&lt;p&gt;Newsletter.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.theverge.com/2017/4/4/15177856/mastodon-social-network-twitter-clone">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The Verge</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>—.</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Mastodon.social is an open-source Twitter competitor that’s growing like crazy</dc:title>
+        <dc:date>2017-04-04</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.theverge.com/2017/4/4/15177856/mastodon-social-network-twitter-clone</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Book rdf:about="https://opensource.org/docs/osd">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Initiative</foaf:surname>
+                        <foaf:givenName>Open Source</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Open Source Definition</dc:title>
+        <dc:date>2007-03-22</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://opensource.org/docs/osd</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Book>
+    <bib:Article rdf:about="https://www.newyorker.com/news/daily-comment/facebook-and-the-age-of-manipulation">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The New Yorker</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Osnos</foaf:surname>
+                        <foaf:givenName>Evan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Facebook and the Age of Manipulation</dc:title>
+        <dc:date>2018-11-16</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.newyorker.com/news/daily-comment/facebook-and-the-age-of-manipulation</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Book rdf:about="https://youtu.be/AxD4mqFtySQ">
+        <z:itemType>book</z:itemType>
+        <dcterms:isReferencedBy rdf:resource="#item_127"/>
+        <dc:title>overshare: the links.net story</dc:title>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://youtu.be/AxD4mqFtySQ</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_127">
+        <rdf:value>&lt;p&gt;Perf. Justin Hall. 2015. Video. 01 11 2020.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.pewresearch.org/fact-tank/2018/09/05/americans-are-changing-their-relationship-with-facebook/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Survey</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perrin</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Americans are changing their relationship with Facebook</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.pewresearch.org/fact-tank/2018/09/05/americans-are-changing-their-relationship-with-facebook/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://nymag.com/intelligencer/2019/05/group-chats-are-making-the-internet-fun-again.html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>New York Magazine</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Read</foaf:surname>
+                        <foaf:givenName>Max</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Group Chats Are Making the Internet Fun Again</dc:title>
+        <dc:date>2019-05-14</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://nymag.com/intelligencer/2019/05/group-chats-are-making-the-internet-fun-again.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.wired.com/2017/04/like-twitter-hate-trolls-try-mastodon/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>WIRED</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rhodes</foaf:surname>
+                        <foaf:givenName>Margaret</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Social Media Upstart Mastodon Is Like Twitter, Except Way More Civil</dc:title>
+        <dc:date>2017-04-13</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.wired.com/2017/04/like-twitter-hate-trolls-try-mastodon/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.theverge.com/2019/7/12/20691957/mastodon-decentralized-social-network-gab-migration-fediverse-app-blocking">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The Verge</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robertson</foaf:surname>
+                        <foaf:givenName>Adi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>How the biggest decentralized social network is dealing with its Nazi problem</dc:title>
+        <dc:date>2019-07-12</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.theverge.com/2019/7/12/20691957/mastodon-decentralized-social-network-gab-migration-fediverse-app-blocking</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://softwareengineeringdaily.com/2018/04/12/mastodon-federated-social-network-with-eugen-rochko/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Software Engineering Daily</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rochko</foaf:surname>
+                        <foaf:givenName>Eugen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Mastodon: Federated Social Network with Eugen Rochko Jeff Meyerson</dc:title>
+        <dc:date>2018-04-12</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://softwareengineeringdaily.com/2018/04/12/mastodon-federated-social-network-with-eugen-rochko/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.nytimes.com/2018/03/28/technology/social-media-privacy.html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The New York Times</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roose</foaf:surname>
+                        <foaf:givenName>Kevin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Can Social Media Be Saved?</dc:title>
+        <dc:date>2018-03-28</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nytimes.com/2018/03/28/technology/social-media-privacy.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.politico.com/news/magazine/2020/07/03/activists-advertising-boycott-facebook-348528">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>POLITICO</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Scola</foaf:surname>
+                        <foaf:givenName>Nancy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Inside the Ad Boycott That Has Facebook on the Defensive</dc:title>
+        <dc:date>2020-07-03</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.politico.com/news/magazine/2020/07/03/activists-advertising-boycott-facebook-348528</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.digitaltrends.com/features/the-history-of-social-networking/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Digital Trends</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shah</foaf:surname>
+                        <foaf:givenName>Saqib</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The history of social networking</dc:title>
+        <dc:date>2016-05-14</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.digitaltrends.com/features/the-history-of-social-networking/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.thenation.com/article/archive/dont-delete-facebook-regulate-it/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The Nation</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shapiro</foaf:surname>
+                        <foaf:givenName>Bruce</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Don’t Delete Facebook, Regulate It</dc:title>
+        <dc:date>2018-03-22</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.thenation.com/article/archive/dont-delete-facebook-regulate-it/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="#item_137">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The Baffler</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silverman</foaf:surname>
+                        <foaf:givenName>Jacob</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Most Violent Platform</dc:title>
+        <dc:date>2020-09-01</dc:date>
+        <z:language>en</z:language>
+        <dc:description>Type: Web. &lt;https://thebaffler.com/the-future-sucked/a-most-violent-platform-silverman&gt;.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.nytimes.com/2020/06/21/business/media/facebook-donald-trump-mark-zuckerberg.html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The New York Times</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Ben</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>What’s Facebook’s Deal With Donald Trump?</dc:title>
+        <dc:date>2020-06-21</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nytimes.com/2020/06/21/business/media/facebook-donald-trump-mark-zuckerberg.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Book rdf:about="https://www.upi.com/Top_News/Voices/2018/08/17/Facebook-shifting-from-open-platform-to-public-utility/1721534507642/">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Susarla</foaf:surname>
+                        <foaf:givenName>Anjana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_140"/>
+        <dc:title>Facebook shifting from open platform to public utility</dc:title>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.upi.com/Top_News/Voices/2018/08/17/Facebook-shifting-from-open-platform-to-public-utility/1721534507642/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_140">
+        <rdf:value>&lt;p&gt;United Press International 17 August 2018. Web.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.pbs.org/wgbh/frontline/film/facebook-dilemma/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Anya Bourg and James Jacoby</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bourg</foaf:surname>
+                        <foaf:givenName>The Facebook Dilemma By Anya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacoby</foaf:surname>
+                        <foaf:givenName>James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacoby</foaf:surname>
+                        <foaf:givenName>Dana Priest James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_142"/>
+        <dc:title>The Public Broadcasting Corporation. Prods</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.pbs.org/wgbh/frontline/film/facebook-dilemma/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_142">
+       <rdf:value>&lt;p&gt;Television.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.splcenter.org/fighting-hate/intelligence-report/2015/third-position-web">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Southern Poverty Law Center</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Third Position on The Web</dc:title>
+        <dc:date>2015-02-22</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.splcenter.org/fighting-hate/intelligence-report/2015/third-position-web</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.theguardian.com/technology/2020/jul/10/facebook-ad-boycott-mark-zuckerberg-activism-change">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>The Guardian</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>'Too big to fail:' why even a historic ad boycott won't change Facebook</dc:title>
+        <dc:date>2020-07-11</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.theguardian.com/technology/2020/jul/10/facebook-ad-boycott-mark-zuckerberg-activism-change</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Type: Web.</dc:description>
+    </bib:Article>
+</rdf:RDF>
