@@ -1,3 +1,5 @@
+![Thumbs Down](thumb.jpg)
+
 # Non-Commercial, Open Source, and Federated Social Platforms as Effective Community Alternatives
 ## Comparing the design philosophies and aggregative behavior of commercial and non-commercial, federated social media services.
 
