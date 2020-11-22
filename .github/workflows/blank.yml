@@ -34,3 +34,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+- name: Git auto commit log
+  uses: tripheo0412/auto-commit-log-action@v2.0.2
