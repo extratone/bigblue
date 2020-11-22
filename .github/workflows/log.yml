@@ -1,0 +1,27 @@
+- name: Git auto commit log
+  # You may pin to the exact commit or the version.
+  # uses: tripheo0412/auto-commit-log-action@11d449d263471aeb5419e9dd7fc08906c0d30e49
+  uses: tripheo0412/auto-commit-log-action@v2.0.2
+  with:
+    # Commit message
+    commit_message: # optional, default is <TriggerCI> ${{ github.event.head_commit.author.username }}: ${{ github.event.head_commit.message }}
+    # Git branch name, where changes should be pushed too. Required if Action is used on the `pull_request` event
+    branch: # optional, default is 
+    # Commit options (eg. --no-verify)
+    commit_options: # optional
+    # File pattern used for `git add`. For example `src/\*.js`
+    file_pattern: # optional, default is .
+    # Local file path to the git repository. Defaults to the current directory (`.`)
+    repository: # optional, default is .
+    # Name used for the commit user
+    bot_user_name: 
+    # Email address used for the commit user
+    bot_user_email: 
+    # Value used for the commit author. Defaults to the username of whoever triggered this workflow run.
+    bot_author: # optional, default is ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+    # Name used for the commit user
+    commit_user_name: # optional, default is ${{ github.event.head_commit.committer.username }}
+    # Email address used for the commit user
+    commit_user_email: # optional, default is ${{ github.event.head_commit.committer.email }}
+    # Message used to create a new git tag with the commit. Keep this empty, if no tag should be created.
+    tagging_message: # optional, default is 
