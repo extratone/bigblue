@@ -4,7 +4,7 @@
 - [ ] Facebook as Whitepages
 - [ ] Literally everybody thinks Facebook needs to be more transparent in actually substantial ways: fucking Open Source the platform dude!
 
-## Terminology
+# Terminology
 
 "Big Data"
 
@@ -22,13 +22,15 @@
 > “the semantic web is an extension of the current web, in which information is given well-defined meaning, better enabling computers and people to work in cooperation”.
 > In the SW framework, every piece of information will transmit its meaning
 
+## As Public Utilities
+
 ## UX
 
 - [ ] Facebook is not designed to be easy to use.
 - [ ] Facebook's Creator Studio (for its clients) is significantly less confusing than its main interface for users.
 - [ ] Proprietary social media platforms have become fat and extremely wasteful.
 
-## As Public Utilities
+# Publishing
 
 
 
