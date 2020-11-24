@@ -1,5 +1,9 @@
 # Notes: Non-Commercial, Open Source, and Federated Social Platforms as Effective Community Alternatives 
 
+- [ ] RSS feed readers were arguably the netizens' favorite means of consuming news, yet they have been systematically neglected
+- [ ] Facebook as Whitepages
+- [ ] Literally everybody thinks Facebook needs to be more transparent in actually substantial ways: fucking Open Source the platform dude!
+
 ## Terminology
 
 "Big Data"
@@ -8,7 +12,7 @@
 
 
 
-### Semantic Web
+### Semantic Web (SW)
 
 [Semantic Versioning](https://semver.org/) and "dependency hell."
 
