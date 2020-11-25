@@ -12,11 +12,7 @@ See: "[Should scientific publishing move to Github and friends](https://grasshop
 
 You can also track live revisions on [**the new channel**](https://discord.gg/K8bg95jRvW) I created in *Extratone*'s Discord for this purpose.
 
-## Working Abstract
-
-This essay seeks to examine the breadth of donor-funded, open source, federated social networks as technical alternatives to commercial online environments like Facebook and Twitter as measured by their users’ overall satisfaction with them as means of social interactivity over time. Following recent debates and confusion regarding the ethics in the practices of the organizations which built them and the extent of their complicity in the radical cultural consequences of digital communication surrounding the United States’ Presidential Election in 2016, it proposes that greater rhetorical and legislative attention be invested in the tangible, documented design decisions across their products’ history as the most crucial, relevant, and effective means of understanding the whole context, within which it will define open source software development and federated networking in contrast to the guarded industry establishment which the dominant services have transitioned from disrupting by design to entirely exemplifying thus far in the century. After examining conspicuous alterations and inexplicably silent feature additions and subtractions across the whole of social network development, as well as their eventual result’s reflections on the conscious satisfaction of individual social media users, it will conclude by profiling a select few communities thriving on donation-funded, collaboratively-maintained, and/or decentralized platforms as superior foundations upon which citizens of the web might rebuild their own traumatized and fragmented networks when they are ready to begin again.
-
-#### ※※※ [**Current Essay Draft**](EssayDraft.md) ※※※
+## ※※※ [**Current Essay Draft**](EssayDraft.md) ※※※
 
 [**David Blue vs. Big Blue**](vsbigblue.md) - A *big* draft of an essay I spent a large portion of the Summer working on and originally intended to post personally. 
 Its [Notes Page](vsnotes.md) is especially important.
@@ -24,12 +20,15 @@ Its [Notes Page](vsnotes.md) is especially important.
 ## Live Progress
 
 * [Notion Page (Notes)](https://www.notion.so/rotund/Research-Paper-4e71ec99e6bd45bcb53713c0a3bdc7fa)
+* [Raindrop Bookmarks Collection](https://raindrop.io/collection/14829126) | ([RSS](https://raindrop.io/collection/14829126/feed))
 * [Word Draft](https://eileenlong-my.sharepoint.com/:w:/g/personal/david_eileenlonglcsw_com/EcnB_3AfhsZHmGj0GYgT65cBAfKKCTbViZNpuh8aykciDA?e=cbYpkN)
 * [Working Bibliography](sources\Bibliography.md)
 * **[Voice Note](0.3VoiceNote.mp3)** on an upcoming release (0.3.)
 * **[Audio recording](JackOnStream.mp3)** of my conversation with Jack [on stream, 11-24-2020](https://youtu.be/1sCxxZ35ZHY).
 
-***
+# Working Abstract
+
+This essay seeks to examine the breadth of donor-funded, open source, federated social networks as technical alternatives to commercial online environments like Facebook and Twitter as measured by their users’ overall satisfaction with them as means of social interactivity over time. Following recent debates and confusion regarding the ethics in the practices of the organizations which built them and the extent of their complicity in the radical cultural consequences of digital communication surrounding the United States’ Presidential Election in 2016, it proposes that greater rhetorical and legislative attention be invested in the tangible, documented design decisions across their products’ history as the most crucial, relevant, and effective means of understanding the whole context, within which it will define open source software development and federated networking in contrast to the guarded industry establishment which the dominant services have transitioned from disrupting by design to entirely exemplifying thus far in the century. After examining conspicuous alterations and inexplicably silent feature additions and subtractions across the whole of social network development, as well as their eventual result’s reflections on the conscious satisfaction of individual social media users, it will conclude by profiling a select few communities thriving on donation-funded, collaboratively-maintained, and/or decentralized platforms as superior foundations upon which citizens of the web might rebuild their own traumatized and fragmented networks when they are ready to begin again.
 
 # Working Bibliography
 
