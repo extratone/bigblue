@@ -1,0 +1,117 @@
+<html>
+<head><title>Staging files from the UNIX command line</title></head>
+<body BGCOLOR="#FFFFFF">
+<h2>Staging files from the UNIX command line. (using the 'push' program)</h2>
+<hr>
+To use the 'push' program to stage files, you will have to log into
+one of the UNIX machines (usually cp.pathfinder.com) using telnet.
+<p>
+To 'Stage a file' means to test a file and copy it from development 
+(the cp.pathfinder.com machine) into production (the web servers).<BR>
+Generally you receive an email confirmation for your stage.
+<p>
+To 'Stage delete a file' means to remove the file from production only
+(no files on cp.pathfinder.com will be affected).
+<p>
+<h2> Some Useful Examples </h2>
+
+<table>
+<tr><th>Action Description</th><th>Command to enter at UNIX prompt</th></tr>
+<tr><td>
+Stage a file (in my current directory)<br>
+</td><td>
+<code>push index.html</code><br>
+</td></tr><tr><td>
+Stage a file (in the 'help' subdirectory of my current directory)<BR>
+</td><td>
+<code>push help/index.html</code><br>
+</td></tr><tr><td>
+Stage a file (giving full path to the file including the content root '/www')<br>
+</td><td>
+<code>push /www/help/index.html</code><br>
+</td></tr><tr><td>
+Same as above but no need to specify the content root (/www)<br>
+</td><td>
+<code>push -U /help/index.html</code><br>
+</td></tr><tr><td>
+Stage <em>delete</em> a file (in my current directory)<br>
+</td><td>
+<code>push -R index.html</code><br>
+</td></tr><tr><td>
+Stage <em>delete</em> a file, ignoring errors which may be reported<br>
+</td><td>
+<code>push -i -R index.html</code><br>
+</td></tr><tr><td>
+Stage a file and view the output from the stager<br>
+</td><td>
+<code>push -s index.html</code><br>
+</td></tr><tr><td>
+Stage multiple files which match a file specification; here, all html files
+in the current directory. (You should first test which files will be matched 
+with the command 'ls *.html')<br>
+</td><td>
+<code>push *.html</code><br>
+</td></tr><tr><td>
+Stage a file and send email only if errors occur.<br>
+</td><td>
+<code>push -O SENDEMAIL=ERROR index.html</code><br>
+</td></tr><tr><td>
+Using multiple options at once (delete from production, view output, 
+send mail only if an error occurs, and content root not specified)
+</td><td>
+<code>push -R -s -O SENDEMAIL=ERROR -U /help/index.html</code><br>
+</td></tr><tr><td>
+To display push options (type push alone)<br>
+</td><td>
+<code>push</code><br>
+</td></tr>
+</table>
+
+<h2> Push Usage/Options </h2>
+<pre>
+usage: push opts [--] files ...
+       push opts -f filelist-file
+       push opts -l push-state-file
+
+where opts is one or more of:
+
+  -Ddebugopt   - Debug-options
+  -L logfile   - Logfile where to log debug-output to
+
+  -z target    - What target we should stage to
+  -h host      - Host to which we should connect (Stager)
+  -p port      - The port to connect to on the staging host
+  -O stageopt  - Staging options (see below)
+  -s           - Keep the connection and output staging result
+  -U           - File(s) specified is relative to content-root
+  -i           - [root] Ignore phase 1 errors
+  -m           - Stage from the production-master to the servers
+  -{r|R}       - Enable removal of files.  Put a '+', or a '-' character
+                 in front of each filename to indicate if you want to add (+)
+                 or delete (-) the particular file.  If there is no '+' or '-'
+                 character, the default is to either add the file (-r), or
+                 delete it (-R).
+
+  --           - Indicates the end of options (so a filenames can't be
+                 parsed as option in case they start with a dash).
+
+Batch mode options:
+  -e           - Only send back an email if the staging fails
+  -F emailaddr - [root] email-address to send back reply to
+  -S service   - [root] Kerberos service to use
+  -u username  - [root] Stage as this user
+
+  where stageopt is one of the following:
+
+    STRICT=[PHASE1|PHASE2] - Set strictness level
+    MOUSEOVER
+    EXT_TARGET
+    SENDEMAIL=[ALWAYS|ERROR|NEVER]
+</pre>
+<hr>
+See <a href="http://cp.pathfinder.com:8080/private/production/style/stager.html">http://cp.pathfinder.com:8080/private/production/style/stager.html</a>,
+for detailed information on how the stager works.<P>
+Email <a href="mailto:stager@pathfinder.com">stager@pathfinder.com</a> with
+questions and staging requests.<P>
+</body></html>
+

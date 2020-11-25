@@ -1,0 +1,65 @@
+#!/usr/local/bin/perl5
+use diagnostics;
+use strict;
+
+use PF::dbSybase;
+require "departments.pm";
+
+my ($id, $lastname, $firstname, $phone, $fax, $email, $pager, $dept, $title,
+	$location, $room, $TINMStaff, $homephone) =
+	(0..12);
+
+my $user = 'intranetro';
+my $pswd = '1readintranet';
+my $server = 'DEVELOPMENT01';
+my $appname = 'intranet';
+
+my $db = new PF::dbSybase($user,$pswd,$server,$appname); #instantiate obj
+my @row;
+
+my $query = qq(SELECT * 
+	FROM inside_phonelist
+	ORDER by lastName);
+
+my @searchresults = $db->ct_Sql($query);
+&printExcel;
+exit;
+
+
+sub fixrow
+{
+	# make sure there are no null fields in array
+	for (@row) {
+		$_ = 0 if !$_;
+	}
+}
+
+#######
+sub excelRow {
+	my $string = '';
+	for (@_) {
+		$string .= qq("$_"\t);
+	}
+	$string .= "\n";
+}
+################################################################################
+sub printExcel {
+# Print out table
+
+    	print "Content-type: application/x-excel\n\n";
+
+	print excelRow ("Last Name", "First Name", "Phone", "Fax", "E-mail",
+	"Pager", "Department", "Title", "Location", "Room", "TINM Staff");
+	my $result;
+	for $result (@searchresults) {
+		@row = @{$result} or next;
+		# get the department
+		$row[$dept] = &getDept($row[$dept]);
+		shift @row;	# we don't need the id
+		pop @row;	# leave off Home Phone
+		&fixrow;
+		print excelRow (@row);
+				
+	}
+	return;
+}

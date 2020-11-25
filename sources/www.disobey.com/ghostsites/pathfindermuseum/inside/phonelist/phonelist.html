@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>TINM Staff Contact Listings</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#800080" alink="#FF0000">
+<FONT FACE="verdana,ariel,helvetica">
+<BR><BR><H2>TINM Contact List Search</H2>
+</FONT>
+<table width="480" cellpadding="5" align="LEFT" valign="TOP">
+<tr align="LEFT" valign="TOP">
+<TD bgcolor="#FFFF00" WIDTH="280">
+<FONT FACE="verdana,ariel,helvetica">
+<H3>Quick Search</H3>
+<form action="https://www.disobey.com/ghostsites/pathfindermuseum/inside/phonelist/namelookup.cgi" method="POST">
+Last Name: <input type="Text" name="last_name"><P>
+<P>
+<input type="Submit" value="do quick search">
+</form>
+</FONT>
+</TD>
+<TD ROWSPAN=2>
+<FONT FACE="verdana,ariel,helvetica">
+<STRONG>Tips</STRONG>: You may enter a full or partial first 
+or last name (or both).  For example, putting &quot;w&quot; in 
+&quot;Last Name&quot; will return a list of everyone who's last name
+begins with &quot;W&quot;.  If you leave everything blank and click on &quot;detailed
+search&quot; you'll get a list of everyone in the database.
+<HR>
+<A HREF="phonelistprint.cgi.html">Download</A> entire phonelist as an Excel spreadsheet
+<P>
+<A HREF="phonelistsubmit.html">Submit changes</A> to your entry in the contact list
+<P>
+<A HREF="phonelistsubmit.cgi%3Fmode=add.html">Add a new entry</A> to the contact list
+</FONT>
+</TD>
+</TR>
+<TR>
+<td>
+<FONT FACE="verdana,ariel,helvetica">
+<H3>Detailed Search</H3>
+<form action="https://www.disobey.com/ghostsites/pathfindermuseum/inside/phonelist/namelookup.cgi" method="POST">
+Last Name: <input type="Text" name="last_name"><P>
+First Name: <input type="Text" name="first_name"><P>
+<!--#include file="departmentlist.txt"-->
+<P>
+<input type="Submit" value="do detailed search">
+</form>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</body>
+</html>

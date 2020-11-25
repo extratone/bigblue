@@ -49,6 +49,32 @@
 
 ***
 
-# Decentralization
+# Decentralization as a Solution
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/skMTdSEaCtA?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+## Mastodon
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/316187852&color=%2300006b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+[Eugen Rochko Interview](audio/Eugen Rochko Interview.mp3) (mp3)
+
+"[Eugen Rochko, Saint of Federated Social](https://bilge.world/eugen-rochko-interview)" | *The Psalms*
+
+- [ ] "[As Facebook Shows Its Flaws, What Might A Better Social Network Look Like?](https://www.npr.org/sections/thetwo-way/2018/05/01/607361849/as-facebook-shows-its-flaws-what-might-a-better-social-network-look-like)" | *NPR* 
+
+<iframe src="https://www.npr.org/player/embed/607361849/607381812" width="100%" height="auto" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+***
+
+# Fedi Controversy
+
+### Diaspora and ISIS
+
+* "[Islamic State fighters on diaspora*](https://blog.diasporafoundation.org/4-islamic-state-fighters-on-diaspora)" | *Diaspora Foundation Blog*
+* "[Islamic State shifts to new platforms after Twitter block](https://www.bbc.com/news/world-middle-east-28843350)" | *BBC News*
+* "[Banning Islamic State Jihadists From Twitter Is Like Playing Whack-a-Mole](https://www.vice.com/en/article/z4mzbj/isis-twitter-whack-a-mole)" | *Motherboard*
+* "[ISIS terror fanatics invade Diaspora after Twitter blockade](https://www.theregister.com/2014/08/22/isis_terrorists_iaspora_social_network/)" | *The Register*
+* "[Islamic State moves to other social networks after Twitter clampdown](https://www.theguardian.com/technology/2014/aug/21/islamic-state-isis-social-media-diaspora-twitter-clampdown)" | *The Guardian*

@@ -1,0 +1,117 @@
+<head>
+<title>Account Request</title>
+</head>
+
+<body bgcolor="#ffffff">
+<center>
+<table width=300 borders=0 cellspacing=4 cellpadding=0>
+
+
+<!-- NoAd -->
+<tr>
+<td align=center colspan=2>
+<h2><strong><p>PATHFINDER ACCOUNT REQUEST</p></strong></h2>
+</td>
+</tr>
+
+<tr>
+<td align=justify colspan=2>
+<hr width=500>
+<h4><p>The Pathfinder Account Request form is designed to let you
+request all of your operations needs in one single step.  Managers
+must fill out this form for new hires.  And remember, the turnaround
+time is approximately five (5) working days, so fill this form out immediately when you bring
+on a new hire!<BR><BR>
+
+Individuals requesting FTP accesss must sign a confidentiality
+agreement and those requsting Telnet access must sign a Non-Disclosure
+agreement.   The form must be signed before an account can
+established.
+ NA, for not applicable can be filled in for all non-related fields.</p></h4> 
+<hr width=300>
+</td>
+</tr>
+</table>
+
+<form method=POST action="http://cgi.pathfinder.com/cgi-bin/mailform.cgi">
+<input type="hidden" name="required" value="from,01. Name,06. Phone">
+<input type="hidden" name="to" value="request@pathfinder.com">
+<input type="hidden" name="redirect" value="http://cp.pathfinder.com:8080/inside/tech/ops/accountrequest-thankyou.html">
+
+<table width=350 borders=0 cellspacing=4 cellpadding=0>
+<tr>
+<td align=left colspan=2>
+<H3>Turnaround time for all accounts is five (5) working days. </H3>
+</td>
+</tr>
+<tr>
+<td><strong>What is your email address?</td>        <td align=left><input type=text name="from" size=40></strong></td></tr>
+<tr>
+<td><strong>Who is this account request for?</td>        <td align=left><input type=text name="subject" value="ACCTREQ for <name goes here>" size=40></strong></td></tr>
+<tr><td align=left colspan=2><br><br><hr width=300></td></tr>
+<tr><td align=left><strong>Name</td>		<td align=left><input type=text name="01. Name" size=40></strong></td></tr>
+<tr><td align=left><strong>Title</td>		<td align=left><input type=text name="02. Title" size=40></strong></td></tr>
+<tr><td align=left><strong>Which website(s) will this person work on, i.e. Time, Fortune, etc.?</td>	<td><input type=text name="03. Website(s) Affiliation" size=40></strong></td></tr>
+<tr><td align=left><strong>Company</td>		<td align=left><input type=text name="04. Company" size=40></strong></td></tr>
+<tr><td align=left colspan=2>(if different than Time Inc. New Media)</td></tr>
+<tr><td align=left><strong>Address</td>		<td align=left><input type=text name="05. Address" size=40></strong></td></tr>
+<tr><td align=left><strong>Phone</td>		<td align=left><input type=text name="06. Phone" size=40></strong></td></tr>
+<tr><td align=left><strong>Fax</td>		<td align=left><input type=text name="07. Fax" size=40></strong></td></tr>
+
+<tr><td align=left><strong>Existing
+E-mail Address</td>	<td align=left><input type=text name="08. Existing E-mail" size=40></strong></td></tr>
+
+<tr><td colspan=2><hr></td></tr>
+<tr><td align=left><strong>Access		<td align=left><strong><input type=checkbox name="09. Access (FTP)" value="Yes"> FTP (Fetch)	</strong>(Any TINM employee - Requires SecurID - Check SecurId Box Below)</td></tr>
+
+<tr><td></td><td align=left><strong>		<input type=checkbox name="09. Access (Telnet)" value="Yes"> Telnet (SNK)	</strong>(Any TINM employee - Requires SecurID - Check SecurId Box Below)</td></tr>
+ 
+<tr><td></td><td align=left><strong>		<input type=checkbox name="10. Other Services (Mail Aliases)" value="Yes"> Mail Aliases</strong></td></tr>
+<tr><td></td><td align=left><strong>		<input type=text name="11. Add login name to the following alias(es)" size=40><br></strong>
+		  (Which mail alias(es) should this person belong.)  See list of aliases at: <a href="https://www.disobey.com/inside/tech/aliases.html"> List of Aliases </a></td></tr>
+
+<tr><td></td><td align=left><strong>		<input type=checkbox name="10. Other Services (PPP)" value="Yes"> PPP		</strong>(Dialup Access for TINM Tech Staff Only)
+
+<tr><td></td><td align=left><strong>		<input type=checkbox name="10. Other Services (POP Mail)" value="Yes"> POP Mail	</strong>(TINM Staff Only requesting a mailbox. Ex. of internet mail account ==> jdoe@pathfinder.com)
+<tr><td></td><td align=left><strong>		<input type=checkbox name="10. Other Services (SecurID Needed)" value="Yes"> SecurID	</strong>(Anyone)
+<tr><td></td><td align=left><strong>		<input type=checkbox name="10. Other Services (Access to Private Area)" value="Yes"> Private Area	</strong>(Anyone)
+<tr><td></td><td align=left><strong>		<input type=checkbox name="10. Other Services (Access to Private Staff Area)" value="Yes"> Private Staff Area	</strong>(TINM Staff Only)
+
+<tr><td align=left><strong>Write Permissions</strong> (Which directories does this person need write access to?)</td>	<td align=left><input type=text name="12. Write Access" size=40 value="use commas to separate directories"></td></tr>
+<tr><td align=left><strong>Staging Permissions</strong> (Which directories does this person need staging access to?)</td>	<td align=left><input type=text name="13. Staging Access" size=40 value="use commas to separate directories"></td></tr>
+<tr><td align=left><strong>Expiration Date</td>	<td align=left><input type=text name="14. Expiration Date" size=40></strong></td></tr>
+<tr><td align=left><strong>Login Name</td>	<td align=left><input type=text name="15. Login Name" size=40></strong></td></tr>
+		<tr><td align=left colspan=2>   (8 character login name limit - we suggest your 
+			first initial plus last name)</td></tr>
+
+<tr><td align=left><strong>Your Full Name	<td align=left><input type=text name="16. Staff Contact" size=40></strong></td></tr>
+<tr><td align=left><strong>Today's Date		<td align=left><input type=text name="17. Date" size=40></strong></td></tr>
+
+</pre>
+<tr>
+<td align=center colspan=2>
+<h2><strong><p>PRINT THIS PAGE BEFORE HITTING 'SEND FORM' FOR YOUR RECORDS</p></strong></h2>
+</td>
+</tr>
+<tr><td align=left colspan=2>
+<input type=submit value="Send Form">
+<input type=reset><P>
+</td></tr>
+</form>
+
+
+<!-- Footer begins here -->
+
+<tr><td align=center colspan=2>
+<hr>
+<p><font size=-1>
+<a href="https://www.disobey.com/inside/phonelist/index.html"> TINM PHONELIST</a>
+</font>
+<p><a href="https://www.disobey.com/pathfinder/welcome.html">Return to Pathfinder home page</a>.</p>
+<!-- insert last-modified>
+<p>This document was last modified 12:29:37 EST Wed 14 Feb 96.</p>
+</td></tr>
+
+</table>
+</center>
+

@@ -1,0 +1,201 @@
+#!/usr/local/bin/perl5  
+use diagnostics;
+use strict;
+ 
+# Author : Charles Herold
+# Created: 11/21/97
+# Purpose: search the phonelist database for a name
+# for purposes of editing or adding name information
+# then sending this off to someone for putting in database
+
+require departments;
+require 'phonevars.pm';
+
+                     ### INITIAL SETUP ###
+use CGI;                              # CGI extension module
+use PF::dbSybase;                     # sybase perl wrapper
+
+$= = 1000;
+
+my $user = 'intranetro';
+my $pswd = '1readintranet';
+my $server = 'DEVELOPMENT01';
+my $appname = 'intranet';
+
+my $db = new PF::dbSybase($user,$pswd,$server,$appname); #instantiate obj
+
+my ($id, $lastname, $firstname, $phone, $fax, $email, $pager, $dept, $title,
+	$location, $room, $TINMStaff, $homephone) =
+	(0..12);
+	
+my @textboxes;
+
+# textboxes contain the following textbox info:
+# Text in front of textbox, NAME of textbox, key to row info, max length of text
+$textboxes[$firstname] = ['First Name', 'firstName', 25];
+$textboxes[$lastname] = ['Last Name', 'lastName', 25];
+$textboxes[$phone] = ['Phone', 'phone', 20];
+$textboxes[$fax] = ['Fax', 'fax', 20];
+$textboxes[$email] = ['E-mail', 'email', 55];
+$textboxes[$pager] = ['Pager', 'pager', 27];
+# dept will be a select box
+$textboxes[$title] = ['Title', 'title', 50];
+$textboxes[$location] = ['Location', 'location', 75];
+$textboxes[$room] = ['Room', 'room', 6];
+$textboxes[$homephone] = ['Home Phone', 'homePhone', 20];
+
+my $q = new CGI;
+$q->import_names('Q');
+
+# the only time the mode parameter is used is for mode=add
+my $add_record = $q->param('mode') ? 1 : 0; 
+
+my @row;
+my @searchresults = ();
+
+print "Content-type: text/html\n\n";   # print minimal header
+print &HTMLtop('Search Results');
+print qq(<TABLE WIDTH="100%">\n);
+print qq(<TR><TD WIDTH=5>&nbsp;</TD><TD>\n);
+print &fontTag;
+
+if (!$add_record) {
+	$Q::last_name =~ s/\s+/ /g;
+	$Q::last_name =~ s/^\s+//g;
+	$Q::last_name =~ s/\s+$//g;
+
+	$Q::first_name =~ s/\s+/ /g;
+	$Q::first_name =~ s/^\s+//g;
+	$Q::first_name =~ s/\s+$//g;
+
+
+	@searchresults = $db->ct_Sql(qq{
+	    SELECT * 
+	    FROM inside_phonelist
+	    WHERE  upper(lastName) like upper("$Q::last_name%")
+	    AND upper(firstName) like upper("$Q::first_name%")
+	    ORDER BY lastName
+	});
+
+	if   (defined(@searchresults[1])) {&doManyNames; }
+	elsif (defined(@searchresults[0])) {&doOneName;}
+	else                         {&doNoNames;}
+	
+	print &fontTagEnd;
+	print qq(\n</TD></TR></TABLE>\n);
+	print qq(\n</BODY></HTML>);
+
+
+	exit;
+} else {
+	&doOneName;
+	&fontTagEnd;
+	print qq(\n</TD></TR></TABLE>\n);
+	print qq(\n</BODY></HTML>);
+}
+##
+## SUBROUTINES
+##
+
+# print out a form for editing all the information
+sub doOneName() {
+	if (!$add_record) {
+		@row = @{$searchresults[0]};
+		# make phone number invisible
+ 		${$textboxes[$homephone]}[0] .= ' (not shown for privacy reasons)';
+		$row[$homephone] = 
+			$row[$homephone] eq "" ? 'Not in records' : 'In Database';
+	} else {
+		# create an empty row
+		$row[$homephone] = '';
+		$row[$id] = -1;	# lets the save script know we're adding
+	}
+	
+	print '<H2>Phone List Editor</H2>';
+	print qq(<FORM METHOD="post" ACTION="https://www.disobey.com/ghostsites/pathfindermuseum/inside/phonelist/submitphonerecord.cgi">\n);
+	print qq(<INPUT TYPE="hidden" NAME="id" VALUE="$row[$id]">\n);	
+	print &textbox ($firstname);
+	print "<P>\n";
+	print &textbox ($lastname);
+	print "<P>\n";
+	print &textbox ($phone);
+	print &textbox ($fax);
+	print "<P>\n";
+	print &textbox ($email);
+	print "<P>\n";
+	print &textbox ($pager);
+	print "<P>\n";
+	print &textbox ($title);
+	print qq(TINM Staff? <INPUT TYPE="checkbox" NAME="TINMStaff"), $row[$TINMStaff] ? 'CHECKED' : '', '>';
+	print "<P>\n";
+	print &departmentList($row[$dept]);
+	print &textbox ($room);
+	print "<P>\n";
+	print &textbox ($location);
+	print "<P>\n";
+	print &textbox ($homephone);
+	
+
+	print "<P>\n";
+	print qq(<input type="Submit" value="Submit Information">);
+	print qq(&nbsp;&nbsp;<input type="Reset">);
+	print "</FORM>";
+	
+}
+
+
+
+sub doNoNames() {
+	print "nothing found for $Q::first_name $Q::last_name";
+}
+
+
+sub textbox {
+	my $key = $_[0];
+	my ($title, $name, $maxlength) = @{$textboxes[$key]};
+	my $value = $row[$key];
+	if (!$value) {$value = '';}
+	my ($minwidth, $maxwidth) = (15, 40);
+	my $length = length $value;
+	if ($length < $minwidth) {
+		$length = $minwidth;
+	} elsif ($length > $maxwidth) {
+		$length = $maxwidth;
+	} else {
+		$length += 2;	# a little padding looks nicer
+	}
+	return qq(<NOBR>$title&nbsp;:&nbsp;<INPUT TYPE="text" NAME="$name" VALUE="$value" SIZE="$length">&nbsp;&nbsp;&nbsp;</NOBR>\n);
+}
+####
+####
+####
+
+sub doManyNames() {
+    my $result;
+    print "<STRONG>Click on name for full information</STRONG><P>";
+    for $result (@searchresults) {
+	@row = @{$result} or next;
+	&fixrow;
+	$row[$firstname] = trim ($row[$firstname]);
+	$row[$lastname] = trim ($row[$lastname]);
+	print qq(<A HREF="phonelistsubmit.cgi%3Ffirst_name=$row[$firstname]&amp;last_name=$row[$lastname].html">
+	$row[$firstname] $row[$lastname]</A><P>);
+    }
+}
+
+sub fixrow
+{
+	# make sure there are no null fields in array
+	for (@row) {
+		$_ = 0 if !$_;
+	}
+}
+
+
+sub trim
+{
+	$_ = $_[0];
+	s/^ *//;
+	s/ *$//;
+	return $_;
+}

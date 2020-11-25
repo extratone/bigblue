@@ -1,0 +1,782 @@
+<HTML>
+<HEAD>
+<TITLE>
+Listserv Information
+</TITLE>
+</HEAD>
+<BLOCKQUOTE><BODY bgcolor=ffffff><font face="verdana,arial,helvetica"><BR><BR>
+<H2>LISTSERVS</H2><HR>
+
+
+
+
+<H2><STRONG>I. Types of Mailing Lists</STRONG></H2>
+
+
+
+We currently have 4 types of mailing lists:
+<OL TYPE="1" START="1">
+	<LI>open subscribe, closed post --> compass, moneydaily, drweil, streetlife
+	<LI>approved subscribe, open post --> tinm, five
+	<LI>open subscribe, open post --> netly-l
+	<LI>approved subscribe, moderated post --> outage
+</OL>
+
+<P>
+The majority of our mailing lists are of the first type and are broadcast
+only with posting permission enabled only for list owner email addresses.
+Our internal mailing lists comprise the second type of list.  Netly is are
+only list which has a open post/open subscribe paradigm.  It is an extremely
+high traffic list will a small but loyal list of subscribers.  Since it is
+such a high volume list, we also offer it in DIGEST form.  
+</P>
+
+<P>
+Receiving a list's mail in digest form, means that instead of getting every 
+message as it is sent to the list, you receive one big message containing all 
+the little ones which have been sent during a specific period of time.  How 
+often a digest is sent depends on either the size of all the mail messages 
+sent or can simply be time based.  The netly-l digest goes out once a day.
+How to switch your (or a subscribers) mail options will be discussed later.
+</P>
+
+<P>
+The fourth and most unusual type of mailing list is our outage list.  To
+subscribe to the list, you must be approved by a list owner.  In addition,
+when someone posts to the list it must be approved by the list moderator
+or editor.  Editors themselves can post straight to the list, but ordinary
+subscribers cannot post without the intercession of a list editor.
+</P>
+
+<P>
+Almost all our mailing lists are ARCHIVED on a yearly, monthly or weekly basis
+depending on frequency of distribution.  The moneydaily list is distributed
+twice a day, five days a week.  This mailing list is archived on a weekly basis.
+On the other hand, the drweil mailing list goes out once a week.  This list is
+archived on a monthly basis.
+</P>
+
+<P>
+What does archiving mean?  It means that there is an accessible copy of each 
+posting for a particular list which is sitting on the ListServ server and can 
+be accessed by anyone through a few commands to ListServ.   Depending on
+how often a list is archived, the user will receive a file back which may
+contain all the postings for the week or all the postings for the month etc.
+How to access you archives will be discussed later.
+</P>
+
+
+
+<H2><STRONG>II. Sending Mail to Your List</STRONG></H2>
+
+
+ 
+
+To post to the list send e-mail to the following address:
+<BLOCKQUOTE><STRONG>listname@listserv.pathfinder.com</STRONG>.<BR> </BLOCKQUOTE>
+For example, if your list is called
+compass, you can send mail to either of the two addresses:
+<BR><BR>
+
+<BLOCKQUOTE><STRONG>compass@pathfinder.com</STRONG></BLOCKQUOTE>
+<BLOCKQUOTE><BLOCKQUOTE>or</BLOCKQUOTE></BLOCKQUOTE>
+<BLOCKQUOTE><STRONG>compass@listserv.pathfinder.com</STRONG></BLOCKQUOTE>
+<BR>
+Include the message you wish to post as the BODY of the message. 
+
+<P>
+In a few minutes you should receive a confirmation message back from ListServ. 
+To reply to the confirmation message, do a reply-to (excluding the body) and
+put "<STRONG>OK</STRONG>" (without the quotes) in the body of the text message. Make sure the
+"key" is in the subject line. The "key" is a six-character cookie you will
+have received after emailing your command to Listserv, and it will look
+something like 65FE9A. It is located in the "Subject: " header line of the 
+message from ListServ.
+</P>
+ 
+
+Alternatively, if you have problems with your "reply-to", you can also
+confirm by sending mail to listserv@listserv.pathfinder.com with the words:<BR><BR>
+
+<BLOCKQUOTE><STRONG>OK key</STRONG></BLOCKQUOTE>
+in the BODY of the mail message. For example, if the subject line of the mail
+message returned from ListServ is:<BR><BR>
+
+<BLOCKQUOTE><STRONG>Subject: Command confirmation request (7E1D6E)</STRONG></BLOCKQUOTE>
+
+you would reply with:<BR>
+
+<BLOCKQUOTE><STRONG>OK 7E1D6E</STRONG></BLOCKQUOTE>
+
+in the BODY of your mail message.  
+<BR>
+<P>
+Note that unconfirmed commands will be cancelled after 2 days.  If you realize
+that you had a spelling error in your posting before you have confirmed it you
+can ignore the first confirmation request, correct your spelling and resend 
+the mail message to your list address and then okay the second confirmation
+message.  In 48 hours you will receive a message saying that your original
+request to post to your list has been cancelled.
+</P>
+
+<P>
+For most of our ListServ mailing lists only email addresses which have been 
+defined as owners addresses can send mail to a list.
+</P>
+
+
+
+<H2><STRONG>III. Listserv Administration</STRONG></H2>
+
+
+
+<P>
+TINM uses an application called ListServ to administrate its mailing lists.
+The ListServ commands are detailed below. You should substitute the specific
+name of your list for the "listname" variable.
+</P>
+
+Three important things to remember:<BR><BR>
+
+<OL TYPE="1" START="1">
+	<LI>All commands should be sent, via e-mail, to either listserv@listserv.pathfinder.com or listserv@pathfinder.com
+   
+	<LI>Listserv ignores email subject lines.
+
+	<LI>Listserv is not case-sensitive -- letters are the same whether they're capital or lower case.
+</OL>
+
+
+<H3><U>ADDING AND DELETING SUBSCRIBERS</U></H3>
+
+
+<P>
+Listserv uses a confirmation mechanism for administrative commands. When you
+email an administrative command to your list or to
+listserv@listserv.pathfinder.com, the software will reply asking for a
+confirmation. This mechanism is used instead of a password to prevent forged
+e-mail which appears to come from a list owner address. If you see ListServ
+asking you for confirmation for commands you did not submit, please let
+Operations know, someone may be trying to SPAM your mailing list.
+</P>
+
+
+
+
+<U>To add a user</U>:<BR><BR>
+
+<STRONG><BLOCKQUOTE>ADD listname user@address.com FirstName LastName</BLOCKQUOTE></STRONG>
+
+<P>
+This command will send notification to the subscriber detailing how to how
+to unsubscribe, it will also include information "welcoming" them to your
+mailing list; this "welcome" information is what you put into the welcome
+message field of the Mailing List request form. If you decide you'd like to
+change your welcome information send mail to the contact at the bottom of
+this page.
+</P>
+
+<P>
+Note that the ADD command needs to have two separate words after the email
+address. If you don't know the users name put "Name Unknown".  You can also
+put the word "Anonymous" in place of the FirstName LastName fields.
+</P>
+
+<U>To add a user without having the list send an introductory message</U>:
+
+<STRONG><BLOCKQUOTE>QUIET ADD listname user@address.com FirstName LastName</BLOCKQUOTE></STRONG>
+
+<U>To remove a user from the list:</U>
+
+<STRONG><BLOCKQUOTE>DELETE listname user@address.com</BLOCKQUOTE></STRONG>
+
+<P>
+This command will send the subscriber notification that he was removed from
+the list by the list owner. If you'd like to change the message they get
+when they are deleted from the list to something more user friendly like
+"thanks for being with us", please send your replacement text to me.
+</P>
+
+<U>To remove a user without a notification sent to subscriber:</U>
+
+<STRONG><BLOCKQUOTE>QUIET DELETE listname user@address.com</BLOCKQUOTE></STRONG>
+
+<P>
+To change a users address, you must delete their old address and re-add them
+using their new address. Alternatively, you can tell them how to do this
+themselves.
+</P>
+
+Both the ADD and DELETE commands will ask you for a confirmation.<BR><BR>
+
+
+<H3><U>BULK ADDING AND DELETING SUBSCRIBERS</U></H3>
+
+
+<P>
+More experienced list owners may want to quietly BULK ADD or BULK DELETE
+multiple users to or from their lists. 
+
+To <STRONG>BULK ADD </STRONG>multiple users to a list, send mail to listserv@listserv.pathfinder.com with the following in the BODY
+of the mail message:
+</P>
+
+<BLOCKQUOTE><STRONG>QUIET ADD listname DD=X IMPORT<BR>
+//X DD *<BR>
+user@address.com FirstName LastName<BR>
+user2@address.com FirstName LastName<BR>
+user3@address.com FirstName LastName<BR>
+user4@address.com FirstName LastName<BR>
+. . . .<BR>
+user1000@address.com FirstName LastName<BR>
+/*</STRONG></BLOCKQUOTE>
+
+
+<P>
+To quietly <STRONG>BULK DELETE</STRONG> multiple users from a mailing list, send mail to
+listserv@listserv.pathfinder.com with the following in the BODY of the mail
+message:
+</P>
+
+<STRONG><BLOCKQUOTE>QUIET DELETE listname DD=X PW=??????<BR>
+//X DD *<BR>
+user@address.com<BR>
+user2@address.com<BR>
+user3@address.com<BR>
+user4@address.com<BR>
+user5@address.com<BR>
+/*</BLOCKQUOTE></STRONG>
+
+where ??????? is YOUR password.  <BR><BR>
+
+
+<H3><U>TO OBTAIN OR CHANGE YOUR PERSONAL PASSWORD</U></H3>
+
+
+<STRONG>To obtain a password</STRONG>, which is unique to your
+individual owner email address.  Send mail to listserv@listserv.pathfinder.com
+with the following in the BODY of the message:<BR><BR>
+
+<BLOCKQUOTE><STRONG>PW ADD foobar</STRONG></BLOCKQUOTE>
+
+where "foobar", in this example, is the password you have chosen.  To change
+your password, send the following to listserv@listserv.pathfinder.com with the
+following in the BODY of the message:<BR><BR>
+
+<STRONG><BLOCKQUOTE>PW CHANGE foobar foobar2</BLOCKQUOTE></STRONG>
+
+where "foobar" is your old password and "foobar2" is your newly selected 
+password.<BR><BR>
+
+<STRONG>To delete your password</STRONG>, send the following to listserv@listserv.pathfinder.com
+with the following in the body of the mail message:
+
+<STRONG><BLOCKQUOTE>PW RESET</BLOCKQUOTE></STRONG>
+
+In all cases ListServ will ask you for a confirmation (the "ok" message)
+which you need to reply to before you will be able to use your password in
+a bulk delete operation.
+<BR><BR>
+
+<H3>G<U>ETTING INFORMATION ABOUT YOUR MAILING LIST</U></H3>
+
+
+<STRONG>To get number of subscribers to list</STRONG>, send mail to listserv@pathfinder.com
+with the following in the BODY of the mail message:<BR><BR>
+
+<BLOCKQUOTE><STRONG>REVIEW listname (NOHeader (Short</STRONG></BLOCKQUOTE>
+
+<STRONG>To get a list of subscribers:</STRONG>
+
+<STRONG><BLOCKQUOTE>REVIEW listname (NOHeader</BLOCKQUOTE></STRONG> 
+
+To get a list of subscribers back in some meaningful order send the following
+request:
+
+<BLOCKQUOTE><STRONG>REVIEW listname (NOHeader by SORT_FIELD</STRONG></BLOCKQUOTE>
+
+where "SORT_FIELD" is one of the following options: country, name, userid.
+Note that the returned email may be huge in size if you maintain a large list 
+and request the complete list of users.  A 60,000 person list will create a
+3 to 4 MB mail message.  We are considering limiting the size of mail messages
+which can be delivered by our mail server to 1MB.  In this event you would be
+better off using the search commands in the section below.<BR><BR>
+
+
+<H3><U>SEARCHING YOUR MAILING LIST</U></H3>
+
+
+To search your list for a specific email address or substring within that
+email address:
+
+
+<STRONG><BLOCKQUOTE>SCAN listname *pattern*</BLOCKQUOTE></STRONG>
+
+
+The * symbol is what is known as a "wildcard". The * matches any zero or
+more characters.
+
+<P>
+The SCAN command can also be used to search for a person's name. For
+instance, you may get mail from John Doe asking to be unsubscribed. He's
+sent his mail from john.doe@somewhere.com. You search your mailing list for
+this email address, but don't find it. Perhaps he subscribed originally from
+john.doe@pizza.somewhere.com and now the ISP's domain name has changed. In
+this case, you should first to a scan using the email address with a wild
+card:
+</P>
+
+<BLOCKQUOTE><STRONG>SCAN listname john.doe@*somewhere.com</STRONG></BLOCKQUOTE>
+
+If this fails you can try searching by his name to see if anything turns up:
+
+<STRONG><BLOCKQUOTE>SCAN listname John Doe</BLOCKQUOTE></STRONG>
+
+The latter search will only work if he actually followed the FirstName,
+LastName subscribe convention, but sometimes it doesn't hurt to try it. If
+this fails you might want to try to broaden your search criteria. Search for
+all the email addresses that start with John and end with "com":
+
+<BLOCKQUOTE><STRONG>SCAN listname john*@*.com</STRONG></BLOCKQUOTE>
+
+Often someone's email address' domain may have changed from @somewhere.com to
+@somewhere.net or their original domain was @somemachine.somewhere.com and now
+is @somewhere.com or @someothermachine.somewher.com.  In these cases, you'd 
+only one to search on the first portion of their email address, for example:
+
+<STRONG><BLOCKQUOTE>SCAN listname john.doe@*</BLOCKQUOTE></STRONG>
+
+Make sure you don't make your search criteria too broad, if you have a large
+list and search on for all subscribers from aol.com, you may end up with a
+returned email message which is thousands of lines long.   
+
+<P>
+Sometimes you may get an especially vocal subscriber who is threatening legal
+action if they are not taken off the list.  If you try the above searches and
+are unable to pull up any email addresses from the list which match their 
+email address, you should try to ask them for as much information to assist
+you in your search.  Ask them if 1) they have any other email addresses they
+may be getting mail forwarded from 2) if they share mailboxes with someone
+who might have subscribed them to the list 3) if they have any known mail
+aliases.  An example of a mail alias is random@pathfinder.com.  This email
+address actually is identical to the ahanes@pathfinder.com email address
+and mailbox.  You send mail to random@pathfinder.com and you send mail to
+me.
+</P>
+<BR>
+
+<H3><U>HOW TO CHANGE A USER'S MAIL SETTINGS</U></H3>
+
+To change a subscriber's mail settings for them, send the following message
+to listserv@listserv.pathfinder.com:
+
+<BLOCKQUOTE><STRONG>SET listname MAIL_OPTION FOR user@somewhere.com</STRONG></BLOCKQUOTE>
+
+where "MAIL_OPTION" is one of the following:
+
+<OL TYPE="1" START="1">
+	<LI>MAIL - normal mail delivery
+	<LI>NOMAIL - turns off mail delivery 
+	<LI>DIGEST - mail is delivered only in digest form
+</OL>
+<BR><BR>
+
+<H2>IV. What Information You Need To Share with Your Subscribers.</H2>
+
+
+<H3><U>HOW TO SUBSCRIBE</U></H3>
+
+Send mail to listserv@listserv.pathfinder.com with the following in the BODY
+of the mail message:
+
+<STRONG><BLOCKQUOTE>SUBSCRIBE listname FirstName LastName</BLOCKQUOTE></STRONG>
+
+
+<H3><U>HOW TO UNSUBSCRIBE</U></H3>
+
+Send mail to listserv@listserv.pathfinder.com with one of the following in
+the BODY of the mail message:
+
+<BLOCKQUOTE><STRONG>SIGNOFF listname </STRONG></BLOCKQUOTE>
+
+<BLOCKQUOTE><BLOCKQUOTE>OR</BLOCKQUOTE></BLOCKQUOTE>
+
+<BLOCKQUOTE><STRONG>UNSUBSCRIBE listname</STRONG></BLOCKQUOTE>
+
+Within a few minutes of sending this unsubscribe request the user will get
+an email back from ListServ asking for confirmation. When the subscriber
+receives this message, they should reply to the message, excluding the body,
+and put the single word "OK" in the BODY of the mail message. The word "OK"
+should be the ONLY text in the BODY of the message and should not include
+the double quotes which are being used for emphasis. The "OK" confirmation
+mechanism will expire with 48 hours. All commands that are not confirmed via
+the "OK" mechanism within 48 hours will be rejected. So if the user does not
+confirm their unsubscribe request within two days, they will have to start
+over and send a new unsubscribe request.
+
+<P>
+We strongly recommend that you include the "How to Unsubscribe" information
+at the top or bottom of every mail message that you send to your list. We
+also recommend that you give them an alternative address for unresolved
+problems or to request help in unsubscribing.
+</P>
+
+Note that sending the command:
+
+<STRONG><BLOCKQUOTE>SIGNOFF *</BLOCKQUOTE></STRONG>
+
+to listserv@listserv.pathfinder.com will cause the user to be deleted
+from ALL mailing lists which run on our server.
+
+
+<H3><U>HOW TO CHANGE THEIR MAIL SETTINGS</U></H3>
+
+Send mail to listserv@listserv.pathfinder.com with the following in the
+BODY of the mail message:
+
+<BLOCKQUOTE><STRONG>SET listname MAIL_OPTION</STRONG></BLOCKQUOTE>
+
+where "MAIL_OPTION" is one of:
+
+
+<OL TYPE="1" START="1">
+	<LI>MAIL - normal mail delivery
+	<LI>NOMAIL - turns off mail delivery (say they go on vacation for a month)
+	<LI>DIGEST - they receive only the lists digests and not mail as it comes in
+</OL>
+
+
+ListServ will send the user a notification of their changed setting status.
+
+
+<H3><U>HOW TO ACCESS DIGESTS</U></H3>
+
+To get a list of all the available digest files for a particular mailing
+list, send mail to listserv@listserv.pathfinder.com with the following in the
+BODY of the mail message:
+
+<STRONG><BLOCKQUOTE>INDEX listname</BLOCKQUOTE></STRONG>
+
+if you do this for a list, for example, moneydaily, you will receive back the
+following information:<BR><BR>
+
+
+  Archive files for the MONEYDAILY list at LISTSERV.PATHFINDER.COM<BR>
+ (weekly logs)
+
+<TABLE>
+
+<TR>
+
+	<TD>
+	
+	</TD>
+	<TD>
+	
+	</TD>
+	<TD>
+	
+	</TD>
+	<TD>
+	
+	</TD>
+	<TD>
+	rec
+	</TD>
+</TR>
+<TR>
+
+	<TD>
+	 <U>filename</U>
+	</TD>
+	<TD>
+	<U>filetype</U>
+	</TD>
+	<TD>
+	<U>GET</U>
+	</TD>
+	<TD>
+	<U>PUT</U>
+	</TD>
+	<TD>
+	<U>-fm</U>
+	</TD>
+	<TD>
+	<U>lrecl</U>
+	</TD>
+	<TD>
+	<U>nrecs</U>
+	</TD>
+	<TD>
+	<U>date</U>
+	</TD>
+	<TD>
+	<U>time</U>
+	</TD>
+</TR>
+<TR>
+
+	<TD>
+	  MONEYDAILY
+	</TD>
+	<TD>
+	LOG9801A
+	</TD>
+	<TD>
+	LOG
+	</TD>
+	<TD>
+	OWN
+	</TD>
+	<TD>
+	V
+	</TD>
+	<TD>
+	73
+	</TD>
+	<TD>
+	1822
+	</TD>
+	<TD>
+	1998-01-07
+	</TD>
+	<TD>
+	19:59:33
+	</TD>
+</TR>
+<TR>
+
+	<TD>
+	  MONEYDAILY
+	</TD>
+	<TD>
+	LOG9801B
+	</TD>
+	<TD>
+	LOG
+	</TD>
+	<TD>
+	OWN
+	</TD>
+	<TD>
+	V
+	</TD>
+	<TD>
+	75
+	</TD>
+	<TD>
+	2916
+	</TD>
+	<TD>
+	1998-01-14
+	</TD>
+	<TD>
+	20:36:07
+	</TD>
+</TR>
+<TR>
+
+	<TD>
+	  MONEYDAILY
+	</TD>
+	<TD>
+	LOG9801C
+	</TD>
+	<TD>
+	LOG
+	</TD>
+	<TD>
+	OWN
+	</TD>
+	<TD>
+	V
+	</TD>
+	<TD>
+	76
+	</TD>
+	<TD>
+	2264
+	</TD>
+	<TD>
+	1998-01-21
+	</TD>
+	<TD>
+	20:29:27
+	</TD>
+</TR>
+<TR>
+
+	<TD>
+	  MONEYDAILY
+	</TD>
+	<TD>
+	LOG9801D
+	</TD>
+	<TD>
+	LOG
+	</TD>
+	<TD>
+	OWN
+	</TD>
+	<TD>
+	V
+	</TD>
+	<TD>
+	75
+	</TD>
+	<TD>
+	2953
+	</TD>
+	<TD>
+	1998-01-28
+	</TD>
+	<TD>
+	21:17:44
+	</TD>
+</TR>
+<TR>
+
+	<TD>
+	  MONEYDAILY
+	</TD>
+	<TD>
+	LOG9801E
+	</TD>
+	<TD>
+	LOG
+	</TD>
+	<TD>
+	OWN
+	</TD>
+	<TD>
+	V
+	</TD>
+	<TD>
+	76
+	</TD>
+	<TD>
+	1040
+	</TD>
+	<TD>
+	1998-01-30
+	</TD>
+	<TD>
+	20:10:07
+	</TD>
+</TR>
+<TR>
+
+	<TD>
+	  MONEYDAILY
+	</TD>
+	<TD>
+	LOG9802A
+	</TD>
+	<TD>
+	LOG
+	</TD>
+	<TD>
+	OWN
+	</TD>
+	<TD>
+	V
+	</TD>
+	<TD>
+	73
+	</TD>
+	<TD>
+	1266
+	</TD>
+	<TD>
+	1998-02-04
+	</TD>
+	<TD>
+	09:22:13
+	</TD>
+</TR>
+</TABLE>
+
+
+
+<BR><BR>
+Most of this information is overly complicated for the average user, however
+the most important thing they should be looking at is the date.  This list
+is archived once a week, so if they are interested in retrieving the moneydaily
+articles for January 22, 1998, they should request the file dated 1998-01-21,
+named LOG9801C.  To request a copy of the file, send mail to 
+listserv@pathfinder.com with the following in the body of the mail message:
+
+
+<BLOCKQUOTE><STRONG>GET MONEYDAILY LOG9801C</STRONG></BLOCKQUOTE>
+
+ListServ will mail back the file which contains all the postings to the
+moneydaily mailing list for that week.
+ 
+
+
+<H2>V. What Is All That Stuff ListServ Is Sending Back To You?</H2>
+
+
+ListServ will send you notification when it deletes someone from the list.
+It usually does this when the email address has an unrecoverable error. An
+example of this might be "user unknown at destination", meaning this email
+address no longer exists on the destination machine. How soon it does this
+and after how many attempts have been made to send the mail depends on how
+the individual lists are configured. Most of our lists have fairly stringent
+"autodelete" policies. If you find that subscribers are sending you mail
+asking why they keep getting kicked of your list, we can modify your list's
+autodeletion policy.
+
+<P>
+Keep in mind however, that ListServ is only a software package. It
+determines whether an email address is invalid by interpreting the bounced
+messages it gets back from different types of mail servers all over the
+world. Not all of these servers reply in a standard fashion. ListServ will
+send you a daily error report which gives a list of the email addresses it
+is currently monitoring for possible deletion. The addresses on the daily
+error report are obtained only when ListServ CAN understand the messages it
+receives back from the destination mail machines.
+</P>
+
+<P>
+Often ListServ can't understand the bounced messages it receives back. You
+may start getting a bounce every time you post to your list from the same
+invalid email address. Although you as a human can easily determine what the
+problem is, and recognizes the error message as one that has been seen over
+and over, the software may not be smart enough to figure it out. What we
+suggest is to set aside 15-30 minutes every week to clean up your list. To
+do this you will want to utilize the QUIET bulk delete, see above.
+</P>
+
+
+
+<H2>VI. Contacts</H2>
+
+
+<STRONG><BLOCKQUOTE>Amanda Hanes ahanes@pathfinder.com</BLOCKQUOTE></STRONG>
+
+
+<H2>VII. Resources</H2>
+
+<UL TYPE=DISC>
+	<LI>Pathfinder Owner Docs:  <A HREF="http://cp.pathfinder.com:8080/private/comm/listserv.html">http://cp:8080/private/comm/listserv.html</A>
+
+	<LI>Request a Mailing List:  <A HREF="http://cp.pathfinder.com:8080/private/tools/ListServ/request.html">http://cp:8080/private/tools/ListServ/request.html</A>
+
+	<LI>LISTSERV General User's Guide:  <A HREF="http://www.lsoft.com/manuals/userindex.html">http://www.lsoft.com/manuals/userindex.html</A>
+
+	<LI>LISTSERV List Owner's Quick Start: <A HREF="http://www.lsoft.com/manuals/qs-index.html">http://www.lsoft.com/manuals/qs-index.html</A>
+
+	<LI>LISTSERV List Owner's Manual:  <A HREF="http://www.lsoft.com/manuals/ownerindex.html">http://www.lsoft.com/manuals/ownerindex.html</A>
+
+	<LI>The LISTSERV Support FAQ:  <A HREF="http://www.lsoft.com/lsv-faq.html">http://www.lsoft.com/lsv-faq.html</A>
+</UL>
+
+
+
+Amanda S. Hanes<BR>
+Manager of Systems Development, Pathfinder<BR>
+Time Inc., New Media (x3585)<BR>
+http://www.pathfinder.com<BR>
+</BLOCKQUOTE></BODY>
+</HTML>

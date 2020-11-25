@@ -1,0 +1,214 @@
+<HTML>
+
+<HEAD>
+
+
+
+<SCRIPT LANGUAGE = "JavaScript">
+	imageSupport = document.images ? true : false;
+
+if (imageSupport) {
+
+               fronton = new Image(42, 197);
+
+               fronton.src = "Images/but_frontpage2.gif"; 
+
+               newson = new Image(42, 197);
+
+               newson.src = "Images/but_news2.gif";
+
+               inon = new Image(42, 197);
+
+               inon.src = "Images/but_insidetime2.gif";
+
+               announceon = new Image(42, 197);
+
+               announceon.src = "Images/but_announcements2.gif"; 
+
+               archiveson = new Image(42, 197);
+
+               archiveson.src = "Images/but_archives2.gif";
+
+               
+
+                 
+
+               frontoff = new Image(42, 197);
+
+               frontoff.src = "Images/but_frontpage1.gif"; 
+
+               newsoff = new Image(42, 197);
+
+               newsoff.src = "Images/but_news1.gif";
+
+               inoff = new Image(42, 197);
+
+               inoff.src = "Images/but_insidetime1.gif"; 
+
+               announceoff = new Image(42, 197);
+
+               announceoff.src = "Images/but_announcements1.gif"; 
+
+               archivesoff = new Image(42, 197);
+
+               archivesoff.src = "Images/but_archives1.gif"; 
+
+               
+
+                  
+
+              
+
+               }
+
+
+
+       function img_act(imgName) {
+               if (imageSupport) {
+               imgOn = eval(imgName + "on.src");
+               document [imgName].src = imgOn;
+               }
+       }
+
+       function img_inact(imgName) {
+               if (imageSupport) {
+               imgOff = eval(imgName + "off.src");
+               document [imgName].src = imgOff;
+               }
+       }
+
+
+</SCRIPT>
+
+</HEAD>
+
+<BODY>
+
+<P><BODY BGCOLOR="#FFFFFF"></P>
+
+<P><TABLE BORDER=0 CELLPADDING=0 WIDTH="100%">
+
+   <TR>
+
+      <TD>
+
+         <P><BR>
+
+         </P>
+
+         
+
+         <P><A HREF="frontpage.html" TARGET="nmnmain"
+
+         onMouseover = "img_act('front')" 
+
+		onMouseout = "img_inact('front')">
+
+	 <IMG NAME="front" BORDER=0 SRC="Images/but_frontpage1.gif" WIDTH="121" HEIGHT="27" ALIGN=bottom>
+
+	 </A></P>
+
+         
+
+         
+
+         
+
+         <P><A HREF="news.html" TARGET="nmnmain"
+
+         onMouseover = "img_act('news')" 
+
+		onMouseout = "img_inact('news')">
+
+	 <IMG NAME="news" BORDER=0 SRC="Images/but_news1.gif" WIDTH="121" HEIGHT="27" ALIGN=bottom>
+
+	 </A></P>
+
+         
+
+         
+
+         
+
+         <P><A HREF="inside.html" TARGET="nmnmain"
+
+         onMouseover = "img_act('in')" 
+
+		onMouseout = "img_inact('in')">
+
+	 <IMG NAME="in" BORDER=0 SRC="Images/but_insidetime1.gif" WIDTH="121" HEIGHT="27" ALIGN=bottom>
+
+	 </A></P>
+
+         
+
+
+
+         
+
+         
+
+         
+
+         <P><A HREF="announce.html" TARGET="nmnmain"
+
+         onMouseover = "img_act('announce')" 
+
+		onMouseout = "img_inact('announce')">
+
+	 <IMG NAME="announce" BORDER=0 SRC="Images/but_announcements1.gif" WIDTH="121" HEIGHT="27" ALIGN=bottom>
+
+	 </A></P>
+
+	 
+
+	 
+
+	 
+
+	  <P><A HREF="nmnarchive.html" TARGET="nmnmain"
+
+         onMouseover = "img_act('archives')" 
+
+		onMouseout = "img_inact('archives')">
+
+	 <IMG NAME="archives" BORDER=0 SRC="Images/but_archives1.gif" WIDTH="121" HEIGHT="27" ALIGN=bottom>
+
+	 </A></P>
+
+         
+
+      </TD></TR>
+
+</TABLE></P>
+
+
+
+<P><TABLE BORDER=0 CELLPADDING=1 WIDTH="100%">
+
+  
+
+   <TR>
+
+      <TD>
+
+         <BR>
+
+         <P ALIGN=CENTER><IMG SRC="https://www.disobey.com/ghostsites/pathfindermuseum/inside/newsletter/Images/mailbox.gif" WIDTH=29 HEIGHT=34
+
+         ALIGN=bottom><br><A HREF="mailto:nmaloney@pathfinder.com">
+
+	 Nancy Maloney</A></P>
+
+         <BR>
+
+        
+
+      </TD></TR>
+
+</TABLE></P>
+
+</BODY>
+
+</HTML>
+
