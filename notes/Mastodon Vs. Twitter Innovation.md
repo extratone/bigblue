@@ -16,7 +16,7 @@ Twitter announces it's going to "try out" a doubled character limit (280) just *
 
 "[Your Tweet, your voice](https://blog.twitter.com/en_us/topics/product/2020/your-tweet-your-voice.html)" | Twitter Blog (June 17, 2020)
 
-"[Add audio uploads #9480](https://github.com/tootsuite/mastodon/pull/9480)" | Mastodon on GitHub (December 13, 2018?)
+"Add audio uploads" - [Tootsuite Version 2.9.1](https://github.com/tootsuite/mastodon/releases/tag/v2.9.1), June 22, 2019. (From [Mastodon Changelog](https://github.com/extratone/mastodon/blob/master/CHANGELOG.md))
 
 ## Editable Posts
 
