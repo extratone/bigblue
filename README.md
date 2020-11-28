@@ -31,7 +31,9 @@ Its [Notes Page](vsnotes.md) is especially important.
 
 This essay seeks to examine the breadth of donor-funded, open source, federated social networks as technical alternatives to commercial online environments like Facebook and Twitter as measured by their users’ overall satisfaction with them as means of social interactivity over time. Following recent debates and confusion regarding the ethics in the practices of the organizations which built them and the extent of their complicity in the radical cultural consequences of digital communication surrounding the United States’ Presidential Election in 2016, it proposes that greater rhetorical and legislative attention be invested in the tangible, documented design decisions across their products’ history as the most crucial, relevant, and effective means of understanding the whole context, within which it will define open source software development and federated networking in contrast to the guarded industry establishment which the dominant services have transitioned from disrupting by design to entirely exemplifying thus far in the century. After examining conspicuous alterations and inexplicably silent feature additions and subtractions across the whole of social network development, as well as their eventual result’s reflections on the conscious satisfaction of individual social media users, it will conclude by profiling a select few communities thriving on donation-funded, collaboratively-maintained, and/or decentralized platforms as superior foundations upon which citizens of the web might rebuild their own traumatized and fragmented networks when they are ready to begin again.
 
-# Working Bibliography
+# [Working Bibliography](https://github.com/extratone/bigblue/blob/main/sources/Bibliography.md)
+
+"Amid a pandemic and Black Lives Matter protests, Facebook users are giving fewer clicks to “soft news”." *Nieman Lab* (2020). Web. <https://www.niemanlab.org/2020/07/amid-a-pandemic-and-black-lives-matter-protests-facebook-users-are-giving-fewer-clicks-to-soft-news/>.
 
 Barbrook, Richard and Andy Cameron. "The Californian Ideology." *Mute* 1 September 1995. Web. <https://www.metamute.org/editorial/articles/californian-ideology>.
 
@@ -46,6 +48,8 @@ Bell, Emily and Taylor Owen. "The Platform Press: How Silicon Valley reengineere
 Bell, Emily. "For Facebook, a boycott and a long, drawn-out reckoning." *Columbia Journalism Review* 9 July 2020. Web. <https://www.cjr.org/tow_center/for-facebook-a-boycott-and-a-long-drawn-out-reckoning.php>.
 
 Brandom, Russell. "Facebook boycott organizers call Mark Zuckerberg meeting ‘a disappointment’." *The Verge* 7 July 2020. Web. <https://www.theverge.com/2020/7/7/21316492/facebook-boycott-stophateforprofit-hate-moderation-meeting>.
+
+Carlson, Nicholas. "In 2004, Mark Zuckerberg Broke Into A Facebook User's Private Email Account." *Business Insider* 5 March 2010. Web. <https://www.businessinsider.com/how-mark-zuckerberg-hacked-into-the-harvard-crimson-2010-3>.
 
 Clegg, Nick. "Facebook Does Not Benefit From Hate." *Facebook Blog* 1 July 2020. Web. <https://about.fb.com/news/2020/07/facebook-does-not-benefit-from-hate/>.
 
@@ -73,6 +77,10 @@ Hall, Justin. *The “First” Blogger, Justin Hall* Brian McCullough. 11 June 2
 
 Hsu, Tiffany. "Ad Boycott of Facebook Keeps Growing." *The New York Times* 23 June 2020. Web. <https://www.nytimes.com/2020/06/23/business/media/facebook-ad-boycott.html>.
 
+Hutheesing, Nikhil. "Corporate Inter-Face-Time." *Forbes* 22 March 2004. Web. <https://www.forbes.com/best/2004/0322/002_print.html>.
+
+"Inside Facebook Open Source." *The Diff* 24 May 2020. Podcast. <https://thediffpodcast.com/docs/episode-1>.
+
 Isaac, Mike. "Facebook’s Decisions Were ‘Setbacks for Civil Rights,’ Audit Finds." *The New York Times* 8 July 2020. Web. <https://www.nytimes.com/2020/07/08/technology/facebook-civil-rights-audit.html?utm_campaign=The%20Interface&utm_medium=email&utm_source=Revue%20newsletter>.
 
 Jeong, Sarah. "Mastodon Is Like Twitter Without Nazis, So Why Are We Not Using It?" *Vice* 4 April 2017. Web. <https://www.vice.com/en/article/783akg/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it>.
@@ -93,6 +101,8 @@ Newton, Casey. "Facebook gets in a Twitter tangle." *The Interface* 21 July 2020
 
 —. "Mastodon.social is an open-source Twitter competitor that’s growing like crazy." *The Verge* 4 April 2017. Web. <https://www.theverge.com/2017/4/4/15177856/mastodon-social-network-twitter-clone>.
 
+Oberhaus, Daniel. "The Complicated Economy of Open Source Software." *Vice* 14 February 2019. Web. <https://www.vice.com/en/article/43zak3/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainable>.
+
 Open Source Initiative. "The Open Source Definition." 22 March 2007. *Open Source Initiative.* Web. 15 November 2020. <https://opensource.org/docs/osd>.
 
 "Open Web Foundation." 25 July 2008. *Open Web Foundation.* Web. <http://www.openwebfoundation.org/>.
@@ -108,6 +118,8 @@ Perrin, Andrew. "Americans are changing their relationship with Facebook." Surve
 Read, Max. "Group Chats Are Making the Internet Fun Again." *New York Magazine* 14 May 2019. Web. <https://nymag.com/intelligencer/2019/05/group-chats-are-making-the-internet-fun-again.html>.
 
 Rhodes, Margaret. "Social Media Upstart Mastodon Is Like Twitter, Except Way More Civil." *WIRED* 13 April 2017. Web. <https://www.wired.com/2017/04/like-twitter-hate-trolls-try-mastodon/>.
+
+Rivlin, Gary. "Wallflower at the Web Party." *The New York Times* 15 October 2006. Web. <https://www.nytimes.com/2006/10/15/business/yourmoney/15friend.html>.
 
 Robertson, Adi. "How the biggest decentralized social network is dealing with its Nazi problem." *The Verge* 12 July 2019. Web. <https://www.theverge.com/2019/7/12/20691957/mastodon-decentralized-social-network-gab-migration-fediverse-app-blocking>.
 
@@ -131,10 +143,14 @@ Smith, Ben. "What’s Facebook’s Deal With Donald Trump?" *The New York Times*
 
 Susarla, Anjana. "Facebook shifting from open platform to public utility." *United Press International* 17 August 2018. Web. <https://www.upi.com/Top_News/Voices/2018/08/17/Facebook-shifting-from-open-platform-to-public-utility/1721534507642/>.
 
+Tabak, Alan J. "Hundreds Register for New Facebook Website." *The Harvard Crimson* 9` February 2004. Web. <https://www.thecrimson.com/article/2004/2/9/hundreds-register-for-new-facebook-website/>.
+
 *The Facebook Dilemma*. By Anya Bourg, James Jacoby and Dana Priest. Dir. James Jacoby. The Public Broadcasting Corporation. Prods. Anya Bourg and James Jacoby. 2018. Television. <https://www.pbs.org/wgbh/frontline/film/facebook-dilemma/>.
 
 "Third Position on The Web." *Southern Poverty Law Center* 22 February 2015. Web. <https://www.splcenter.org/fighting-hate/intelligence-report/2015/third-position-web>.
 
 "'Too big to fail:' why even a historic ad boycott won't change Facebook." *The Guardian* 11 July 2020. Web. <https://www.theguardian.com/technology/2020/jul/10/facebook-ad-boycott-mark-zuckerberg-activism-change>.
 
-Wildman, Steven S. and Jonathan A. Obar. "Social media definition and the governance challenge-an introduction to the special issue." *Telecommunications Policy* 22 July 2015. Web. <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2647377>.
+Wamsley, Laurel. "As Facebook Shows Its Flaws, What Might A Better Social Network Look Like?" *The Two-Way* 1 May 2018. Web, Radio. <https://www.npr.org/sections/thetwo-way/2018/05/01/607361849/as-facebook-shows-its-flaws-what-might-a-better-social-network-look-like>.
+
+###### Wildman, Steven S. and Jonathan A. Obar. "Social media definition and the governance challenge-an introduction to the special issue." *Telecommunications Policy* 22 July 2015. Web. <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2647377>.
