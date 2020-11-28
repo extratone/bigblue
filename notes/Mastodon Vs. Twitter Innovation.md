@@ -6,7 +6,7 @@ Mastodon's platform allows instance admins to customize post length, up to 5000 
 
 "[Giving you more characters to express yourself](https://blog.twitter.com/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html)" | Twitter Blog (September 26, 2017)
 
-Twitter announces it's going to "try out" a doubled character limit (280) just *one month* after Mastodon's Big Week (when it was circulated around popular tech media.)
+Twitter announces it's going to "try out" a doubled character limit (280) just five months after Mastodon's Big Week (when it was circulated around popular tech media.)
 
 ## Custom "Conversations" Visibility
 
