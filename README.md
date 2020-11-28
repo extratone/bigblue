@@ -25,6 +25,7 @@ Its [Notes Page](vsnotes.md) is especially important.
 * [Working Bibliography](sources\Bibliography.md)
 * **[Voice Note](0.3VoiceNote.mp3)** on an upcoming release (0.3.)
 * **[Audio recording](JackOnStream.mp3)** of my conversation with Jack [on stream, 11-24-2020](https://youtu.be/1sCxxZ35ZHY).
+* [The blog post I made amidst writing the original essay](https://extratone.vivaldi.net/covering-facebook/)
 
 # Working Abstract
 
