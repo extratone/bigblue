@@ -27,3 +27,8 @@ Mastodon's Delete and Redraft feature.
 ## Image Descriptions
 
 [May 27th, 2020 Tweet](https://twitter.com/TwitterA11y/status/1265689579371323392)
+
+"image descriptions for screen readers," "[Mastodon 2.0](https://blog.joinmastodon.org/2017/10/mastodon-2.0/)" (October 19, 2017)
+
+@TwitterA11y. "Adding descriptions to images is a great way to include everyone in your conversation. These descriptions, aka alt-text, enable folks who use screen readers to interpret images in Tweets. Starting today, you no longer need a setting to add alt text and it's available on 📱 & 💻." *Twitter*, 27 May. 2020, 12:01 p.m., twitter.com/TwitterA11y/status/1265689579371323392.
+
