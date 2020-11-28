@@ -31,6 +31,6 @@ I'm not sure/I don't recall where they were on security in 2017, but I can tell 
 
 I realize that much of the insular discourse surrounding decentralized social surrounds hosting one's own node or instance, but the practical reality for a Mastodon user in 2020 does not necessitate this concept at all. 
 
-> The reality is that most people do not want to run their own web servers or social network nodes. They want to engage with the web through friendlier platforms, and these platforms will be constrained by the same forces that drive consolidation today.
+> A better strategy would be to pursue policies that strengthen the environment for decentralized platforms, including data portability, interoperability, and alternatives to advertising-based funding models.
 
 This is what follows the previous quote, and I ultimately agree wholeheartedly with it. I just don't understand why the article was titled so negatively, but I realize that it was *WIRED* editors that made that decision, not Barabas.
