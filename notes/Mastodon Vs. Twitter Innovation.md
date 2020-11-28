@@ -14,6 +14,12 @@ Twitter announces it's going to "try out" a doubled character limit (280) just f
 
 ## Audio Posts
 
+[Initial resistance](https://github.com/tootsuite/mastodon/issues/7495#issuecomment-389511213): 
+
+> As-is, Mastodon is not a file sharing service. Even though it allows people to attach images and videos to toots, there is no expectation of format or quality fidelity (e.g. max 8MB videos, webm/mp4 only, jpg/png only, large images are downsized to at most 1280^2 pixels). So even though you could encode a song in a video, it's far from sharing MP3 or FLAC files. You can't share ZIP archives. You can't send someone a PSD file.
+>
+> I think it was a good decision to not allow audio uploads. Yes maybe it would've been fine. Or maybe the media would have branded Mastodon as a pirated music sharing service, and our project would start getting blocked from search results. Not a risk I am interested in taking *at all* when the most simple solution is to just include a link to soundcloud, instaud.io, vocaroo.com, dropbox, google cloud, your own server, or whatever else. Mastodon should not be a file sharing service!! It's a specialized problem domain with specialized solutions.
+
 "[Your Tweet, your voice](https://blog.twitter.com/en_us/topics/product/2020/your-tweet-your-voice.html)" | Twitter Blog (June 17, 2020)
 
 "Add audio uploads" - [Tootsuite Version 2.9.1](https://github.com/tootsuite/mastodon/releases/tag/v2.9.1), June 22, 2019. (From [Mastodon Changelog](https://github.com/extratone/mastodon/blob/master/CHANGELOG.md))
