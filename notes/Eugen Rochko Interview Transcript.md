@@ -304,7 +304,7 @@ I don't know. I feel like like the things are virtually unrelated, but that's.
 
 So the last feature that I hear a lot of complaining about about Twitter that's not addressed is editable. Toots. Is that like a possibility? 
 
-Happen that one happened. There's actually a good reason why they don't do that. It's for the very simple reason that you could make it to about one thing. Make lots of people favorited. 
+That won't happen. There's actually a good reason why they don't do that. It's for the very simple reason that you could make a Toot about one thing, have lots of people favorite share it, link it from other places, and then suddenly it says "heil Hitler," or whatever.
 
 And share it. 
 
