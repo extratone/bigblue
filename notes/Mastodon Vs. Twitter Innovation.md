@@ -30,6 +30,8 @@ Mastodon's Delete and Redraft feature.
 
 "[If you could edit tweets](https://blog.joinmastodon.org/2018/06/if-you-could-edit-tweets/)" | Mastodon Blog (June 19, 2018)
 
+Twitter seemed to be testing *the exact same fucking function* [in September](https://twitter.com/tomwarren/status/1305278528875892740). 
+
 ## Image Descriptions
 
 [May 27th, 2020 Tweet](https://twitter.com/TwitterA11y/status/1265689579371323392)
